@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <base href="./">
+
+        <!-- Bootstrap -->
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+        <script src="js/bootstrap.bundle.min.js"></script>
+        <!-- Self -->
+        <script src="js/main.js"></script>
+        <script src="js/ruleBookReader.js"></script>
+        <script src="js/saveDataHandler.js"></script>
+        <!-- Handlebars -->
+        <script src="js/handlebars.min-v4.7.8.js"></script>
+        <script src="js/handlebars-helpers.js"></script>
+        <!-- jqMath -->
+        <script src="js/jquery-1.4.3.min.js" ></script>
+        <script src="js/jqmath-etc-0.4.6.min.js" ></script>
+
+        <link href="css/style.css" rel="stylesheet">
+        <title>FS-Rule-Tool</title>
+    </head>
+    <body onload="setup()">
+        <div class="row">
+          <div class="col col-auto vh-100 p-0">
+            <div class="flex-column text-white menuPlane">
+              <a href="/" class="align-items-center text-white text-decoration-none">
+                <h3 class="p-0 m-0 title">FS-Rule</h3>
+                <h1 class="p-0 m-0 title">Tool</h1>
+              </a>
+              <hr>
+              <ul class="nav nav-pills flex-column mb-auto" id="menuList">
+                <li class="nav-item menuItem">
+                  <a href="#" onclick="openNew(this);event.preventDefault();" class="nav-link text-white active" aria-current="page">
+                    <img src="img/icons/home.png" class="bi me-2" width="16" height="16"></img>
+                    Home
+                  </a>
+                </li>
+                <li class="nav-item menuItem">
+                  <a href="#" onclick="openNew(this);event.preventDefault();" class="nav-link text-white" aria-current="page">
+                    <img src="img/icons/search.png" class="bi me-2" width="16" height="16"></img>
+                    Search
+                  </a>
+                </li>
+                <li class="nav-item menuItem">
+                  <a href="#" id="settings" onclick="event.preventDefault();" class="nav-link text-white" aria-current="page">
+                    <img src="img/icons/settings.png" class="bi me-2" width="16" height="16"></img>
+                    Search
+                  </a>
+                </li>
+                <li class="nav-item">
+                  <p class="text-white mt-2 mb-0">Rulebooks</p>
+                </li>
+                <li class="nav-item menuItem">
+                  <a href="#" onclick="openOverall(this);event.preventDefault();" class="nav-link text-white" aria-current="page">
+                    <img src="img/icons/overall.png" class="bi me-2" width="16" height="16"></img>
+                    Overall
+                  </a>
+                </li>
+                <li class="nav-item menuItem">
+                  <a href="#" onclick="openNew(this);event.preventDefault();" class="nav-link text-white" aria-current="page">
+                    <img src="img/icons/local.png" class="bi me-2" width="16" height="16"></img>
+                    Events
+                  </a>
+                </li>
+                <li class="nav-item menuItem">
+                  <a href="#" onclick="openNew(this);event.preventDefault();" class="nav-link text-white" aria-current="page">
+                    <img src="img/icons/downloads.png" class="bi me-2" width="16" height="16"></img>
+                    Downloads
+                  </a>
+                </li>
+                <li class="nav-item">
+                  <p class="text-white mt-2 mb-0">Bookmakers</p>
+                </li>
+              </ul>
+          </div>
+          </div>
+          <div class="col col-auto vh-100 p-0 sidebar">
+            <div class="alternetivTaskbar"></div>
+            <div class="arrowBar">
+              <a href="#" onclick="toggleSidebarButton();event.preventDefault();" class="arrowLink" aria-current="page">
+                <img class="arrowImg" src width="12" height="12"></img>
+              </a>
+            </div>
+            <div id="middlePlane" class="d-flex flex-column flex-shrink-0 pt-1 text-white middlePlane">
+            </div>
+          </div>
+          <div class="col vh-100 p-0">
+            <div class="alternetivTaskbar"></div>
+            <div id="mainPlane" class="d-flex flex-column flex-shrink-0 p-3 text-white mainPlane">
+            </div>
+          </div>
+        </div>
+    </body>
+</html>

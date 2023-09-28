@@ -1,0 +1,70 @@
+<div class="row mt-5">
+    <div class="col">
+        <h1 class="text-center">{{rulebook}} {{year}}</h1>
+    </div>
+</div>
+<div class="row mb-0 align-items-center">
+    <div class="col">
+        <h3 class="text-center">Version: {{version}}</h3>
+    </div>
+</div>
+<div class="row mb-5 align-items-center">
+    <div class="col">
+        <h4 class="text-center version-date">{{release_date}}</h4>
+    </div>
+</div>
+{{#each chapters}}
+<div class="row mt-5" id='{{removeSpace chapter_shortname}}'>
+    <div class="col col-auto text-end">
+        <h3 class="col-left">{{chapter_shortname}}</h3>
+    </div>
+    <div class="col">
+        <h3>{{chapter_name}}</h3>
+    </div>
+</div>
+{{#each chapters}}
+<div class="row mt-5" id='{{removeSpace chapter_shortname}}'>
+    <div class="col col-auto text-end">
+        <h4 class="col-left">{{chapter_shortname}}</h4>
+    </div>
+    <div class="col">
+        <h4>{{chapter_name}}</h4>
+    </div>
+</div>
+{{#each chapters}}
+<div class="row mt-5" id='{{removeSpace chapter_shortname}}'>
+    <div class="col col-auto text-end">
+        <h5 class="col-left">{{chapter_shortname}}</h5>
+    </div>
+    <div class="col">
+        <h5>{{chapter_name}}</h5>
+    </div>
+</div>
+{{#each rules}}
+<div class="row rule-text" id='{{removeSpace rule_shortname}}'>
+    <div class="col col-auto text-end">
+        <p class="mb-0 col-left">{{rule_shortname}}</p>
+    </div>
+    <div class="col">
+        <p class="mb-0 ruleBody">{{{createRuleText rule_text}}}</p>
+    </div>
+    <div class="col-auto ruleButtons">
+        <div class="ruleButton">
+            <button type="button" class="" data-bs-toggle="dropdown" aria-expanded="false">
+                <img src="img/icons/bookmarker-no.png" class="bi me-2" width="16" height="16">
+            </button>
+            <ul class="dropdown-menu">
+                {{{ruleBookmakers rule_shortname rule_shortname}}}
+            </ul>
+        </div>
+        <div class="ruleButton">
+            <button type="button" aria-expanded="false">
+                <img src="img/icons/info-no.png" class="bi me-2" width="16" height="16">
+            </button>
+        </div>
+    </div>
+</div>
+{{/each}}
+{{/each}}
+{{/each}}
+{{/each}}

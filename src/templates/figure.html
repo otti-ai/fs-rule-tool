@@ -1,0 +1,39 @@
+{{#if table}}
+<div class="figure-table" id="{{lower figure_name}}">
+    <table class="table table-fit table-sm table-dark ms-auto me-auto">
+        {{#if table.head}}
+        <thead>
+            <tr>
+                {{{tableHead table.head}}}
+            </tr>
+        </thead>
+        {{/if}}
+        {{#if table.content}}
+        <tbody>
+            {{#each table.content}}
+            <tr>
+                {{#if .}}
+                {{{tableItem .}}}
+                {{/if}}
+            </tr>
+            {{/each}}
+        </tbody>
+        {{/if}}
+        {{#if table.footer}}
+        <tfoot>
+            <tr>
+                {{{tableItem table.footer}}}
+            </tr>
+        </tfoot>
+        {{/if}}
+    </table>
+</div>
+{{/if}}
+{{#if image}}
+<div class="figure-img text-center" id="{{lower figure_name}}">
+    <img src="{{{image}}}" />
+</div>
+{{/if}}  
+{{#if figure_text}}
+<div class="text-center">{{figure_name}}: {{figure_text}}</div>
+{{/if}}

@@ -1,0 +1,210 @@
+:root {
+  color-scheme: dark;
+  --background-main-color: #1e1e1e;
+  --background-menu-color: #282828;
+  --border-color: #282828;
+  --link-color: #a3a3a3;
+  --button-color: #0d6efd;
+  --titlebar-color: #444444;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --background-main-color: #ffffff;
+    --background-menu-color: #bbbbbb;
+    --border-color: #bbbbbb;
+    --link-color: #3a3939;
+    --button-color: #0d6efd;
+    --titlebar-color: #3a3939;
+  }
+}
+
+.arrowBar{
+  position: absolute;
+  right: -27px;
+  background-color: var(--background-menu-color);
+  border: 0;
+  border-radius: 0 0.25rem 0.25rem 0;
+  opacity: 0;
+  transition: opacity .2s;
+}
+
+.arrowBar:hover > .arrowLink > .arrowImg{
+  background-color: var(--button-color);
+}
+
+.arrowBarShow {
+  opacity: 1;
+}
+
+.arrowLink{
+  display: grid;
+  padding: 8px;
+  margin: 0px;
+}
+
+.menuIcon{
+  width: 30px;
+  height: 30px;
+}
+
+.arrowImg{
+  -webkit-mask: url("../img/icons/arrow.png") center/contain;
+  background-color: var(--titlebar-color);
+  display: inline-block;
+  transform: rotate(180deg);
+  transition: opacity .8s;
+}
+
+.sidebar{
+  width: 200px;
+  position: relative;
+  width: fit-content;
+}
+
+.sidebar:hover > .arrowBar{
+  opacity: 1;
+  transition: opacity .2s;
+}
+
+.middlePlane {
+  border-right-color: var(--border-color);
+  border-right-style: solid;
+  border-right-width: 1px;
+  background-color: var(--background-main-color);
+  height: 100%;
+}
+.mainPlane {
+  background-color: var(--background-main-color);
+  height: calc( 100% - 30px);
+  overflow: overlay;
+}
+
+.mainPlane a {
+  color: var(--link-color);
+}
+
+
+.figure-img img{
+  max-height: 50vh;
+  max-width: 50vw;
+}
+
+.menuPlane { 
+  height: 100%;
+  background-color: var(--background-menu-color);
+  padding-left: 1.5rem;
+  padding-right: 0.7rem;
+  padding-top: 0.7rem;
+}
+.menuPlane ul {
+  min-width: max-content;
+}
+.middlePlane ul {
+  min-width: max-content;
+}
+
+.menuPlane a:hover {
+  background-color: var(--button-color);
+}
+
+.middlePlane a:hover {
+  background-color: var(--button-color);
+}
+
+.title {
+  color: var(--titlebar-color);
+}
+
+.col-left {
+  min-width: 75px;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  background-color: var(--background-main-color);
+}
+
+.version-date {
+  color: var(--titlebar-color);
+}
+
+.ruleButtons button{
+  background-color: transparent;
+  border: none;
+  padding: 0px;
+}
+
+.ruleButtons ul{
+  background-color: var(--background-main-color);
+}
+
+.ruleButtons a{
+  color: white;
+}
+
+.rule-text > .ruleButtons > .ruleButton{
+  opacity: 0;
+  transition: opacity .2s;
+}
+
+.rule-text:hover > .ruleButtons > .ruleButton{
+  opacity: 1;
+  transition: opacity .2s;
+}
+
+.figure-img img{
+  max-width: 80%;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 30px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: none; 
+  border-radius: 1px;
+  background: var(--background-menu-color);
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: var(--titlebar-color);
+  border-radius: 1px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: var(--button-color);; 
+}
+
+table.table-fit {
+  width: auto !important;
+  table-layout: auto !important;
+}
+table.table-fit thead th,
+table.table-fit tbody td,
+table.table-fit tfoot th,
+table.table-fit tfoot td {
+  width: auto !important;
+  background-color: transparent !important;
+}
+.table-dark{
+  background-color: transparent !important;
+  border-color: transparent !important;
+  font-size: small !important;
+}
+
+.alternetivTaskbar{
+  width: 100%;
+  height: 30px;
+  -webkit-app-region: drag;
+}
+
+.nav-item {
+  padding: 2px;
+}
