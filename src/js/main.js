@@ -8,6 +8,10 @@ var toggleSidebar = false;
 var saveData;
 
 
+window.$ = window.jQuery = require('jquery')
+window.Tether = require('tether')
+window.Bootstrap = require('bootstrap')
+
 function setup() {
     mainPlane = document.getElementById("mainPlane");
     middlePlane = document.getElementById("middlePlane");
