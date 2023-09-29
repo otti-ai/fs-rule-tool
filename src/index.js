@@ -12,11 +12,11 @@ const createWindow = () => {
   const mainWindow = new BrowserWindow({
     titleBarStyle: 'hidden',
     titleBarOverlay: true,
-    //titleBarOverlay: {
-      //color: '#1e1e1e',
-      //symbolColor: '#444444'
-    //},
-    //backgroundColor: '#1e1e1e',
+    titleBarOverlay: {
+      color: '#1e1e1e',
+      symbolColor: '#444444'
+    },
+    backgroundColor: '#1e1e1e',
     width: 1280,
     height: 720,
     minWidth: 950,
