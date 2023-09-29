@@ -21,7 +21,7 @@
     "email": "yannik.ottens@bremergy.de",
     "url": "https://yannik-ottens.de"
   },
-  "license": "GPLv3",
+  "license": "GPL-2.0",
   "dependencies": {
     "electron-squirrel-startup": "^1.0.0"
   },
