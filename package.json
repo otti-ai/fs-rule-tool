@@ -1,8 +1,8 @@
 {
   "name": "fs-rule-tool",
   "productName": "fs-rule-tool",
-  "version": "1.0.0",
-  "description": "My Electron application description",
+  "version": "0.0.1",
+  "description": "The fs-rule-tool is a tool which simplifies the wok with the different rules of the Formula Student (FSAE)",
   "main": "src/index.js",
   "scripts": {
     "start": "electron-forge start",
@@ -11,19 +11,27 @@
     "publish": "electron-forge publish",
     "lint": "echo \"No linting configured\""
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/otti-ai/fs-rule-tool.git"
+  },
   "keywords": [],
-  "author": "Yannik Ottens",
-  "license": "MIT",
+  "author": {
+    "name": "Yannik Ottens",
+    "email": "yannik.ottens@bremergy.de",
+    "url": "https://yannik-ottens.de"
+  },
+  "license": "GPLv3",
   "dependencies": {
     "electron-squirrel-startup": "^1.0.0"
   },
   "devDependencies": {
-    "@electron-forge/cli": "^6.4.1",
-    "@electron-forge/maker-deb": "^6.4.1",
-    "@electron-forge/maker-rpm": "^6.4.1",
-    "@electron-forge/maker-squirrel": "^6.4.1",
-    "@electron-forge/maker-zip": "^6.4.1",
-    "@electron-forge/plugin-auto-unpack-natives": "^6.4.1",
+    "@electron-forge/cli": "^6.4.2",
+    "@electron-forge/maker-deb": "^6.4.2",
+    "@electron-forge/maker-rpm": "^6.4.2",
+    "@electron-forge/maker-squirrel": "^6.4.2",
+    "@electron-forge/maker-zip": "^6.4.2",
+    "@electron-forge/plugin-auto-unpack-natives": "^6.4.2",
     "electron": "26.1.0"
   }
 }
