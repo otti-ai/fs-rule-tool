@@ -17,11 +17,10 @@ class SaveDataHandler {
         let bookID = this.findBookFolder(pElement.innerHTML);
         let listElement = new Object();
         listElement.rule_shortname = pElement.dataset.rule;
-        listElement.book_filename = 'test';
         listElement.book_name = pElement.dataset.book;
         this.data.bookmakers[bookID].rule_list.push(listElement);
-        //save diffrent betwin browser and electron
-        window.electronAPI.saveJson(this.rulePath, this.data);
+
+        this.saveSaveData();
     }
 
     findBookFolder(pFolder){
@@ -31,4 +30,11 @@ class SaveDataHandler {
             }
         }
     }
+
+    saveSaveData(){
+        //save diffrent betwin browser and electron
+        window.electronAPI.saveJson(this.rulePath, this.data);
+    }
+
+    
 }

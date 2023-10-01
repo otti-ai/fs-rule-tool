@@ -1,6 +1,7 @@
 {
     "id": 0,
     "rulebook": "Formula Student Rulebook",
+    "shortname": "FS 2023",
     "year": 2023,
     "event": "Europa",
     "version": "1.1",
@@ -147,7 +148,7 @@
                                 },
                                 {
                                     "rule_shortname": "A3.1.4",
-                                    "rule_text": "All guidelines and clarifications posted in the \u201cRules and Important Documents\u201d sections on the competition website for the current season including the competition handbook are considered part of these rules."
+                                    "rule_text": "All guidelines and clarifications posted in the \"Rules and Important Documents\" sections on the competition website for the current season including the competition handbook are considered part of these rules."
                                 }
                             ]
                         },
@@ -157,7 +158,7 @@
                             "rules": [
                                 {
                                     "rule_shortname": "A3.2.1",
-                                    "rule_text": "Failure of a team member to follow an instruction or command directed specifically to that team or team member will result in 25 penaltypoints being deducted from the team\u2019s overall score."
+                                    "rule_text": "Failure of a team member to follow an instruction or command directed specifically to that team or team member will result in 25 penaltypoints being deducted from the team's overall score."
                                 }
                             ]
                         },
@@ -177,7 +178,7 @@
                             "rules": [
                                 {
                                     "rule_shortname": "A3.4.1",
-                                    "rule_text": "In the event of unsportsmanlike conduct, 25 penaltypoints will be deducted from the team\u2019s overall score. A second violation will result in expulsion of the team from the competition."
+                                    "rule_text": "In the event of unsportsmanlike conduct, 25 penaltypoints will be deducted from the team's overall score. A second violation will result in expulsion of the team from the competition."
                                 }
                             ]
                         },
@@ -223,7 +224,7 @@
                             "rules": [
                                 {
                                     "rule_shortname": "A3.7.1",
-                                    "rule_text": "If a team has a question about scoring, judging, policies or any official action it must be brought to the officials\u2019 attention within the announced protest period for an informal preliminary review before a protest can be filed."
+                                    "rule_text": "If a team has a question about scoring, judging, policies or any official action it must be brought to the officials' attention within the announced protest period for an informal preliminary review before a protest can be filed."
                                 },
                                 {
                                     "rule_shortname": "A3.7.2",
@@ -255,7 +256,7 @@
                                 },
                                 {
                                     "rule_shortname": "A4.1.2",
-                                    "rule_text": "For the purposes of registering and competing, a university\u2019s CV team and EV team are considered to be separate and independent entities."
+                                    "rule_text": "For the purposes of registering and competing, a university's CV team and EV team are considered to be separate and independent entities."
                                 },
                                 {
                                     "rule_shortname": "A4.1.3",
@@ -305,7 +306,7 @@
                                 },
                                 {
                                     "rule_shortname": "A4.2.10",
-                                    "rule_text": "Team members who will drive a competition vehicle at any time during a competition must present a valid, government issued driver\u2019s license for passenger cars, containing a photograph."
+                                    "rule_text": "Team members who will drive a competition vehicle at any time during a competition must present a valid, government issued driver's license for passenger cars, containing a photograph."
                                 }
                             ]
                         },
@@ -421,7 +422,7 @@
                             "rules": [
                                 {
                                     "rule_shortname": "A5.3.1",
-                                    "rule_text": "For each submission later than the initial deadline 10 penaltypoints are deducted from the team\u2019s overall score."
+                                    "rule_text": "For each submission later than the initial deadline 10 penaltypoints are deducted from the team's overall score."
                                 },
                                 {
                                     "rule_shortname": "A5.3.2",
@@ -483,7 +484,7 @@
                                 },
                                 {
                                     "rule_shortname": "A5.6.3",
-                                    "rule_text": "The video must fulfill the following criteria: \u2022 Continuous video from a third person view - no assembled sequences \u2022 Vehicle must be clearly visible (light, video resolution, frames and frequency) \u2022 Vehicle must run under its own power \u2022 Driving must follow A6.4.6 \u2022 Vehicle must be presented in ready-to-race conditions incl. body work \u2022 No crossing in front of the vehicle after [EV ONLY] TS activated / [CV ONLY] engine started \u2022 [EV ONLY] Tractive System Active Light (TSAL), [DC ONLY] Autonomous System Status Indicator (ASSI), and brake light, must be clearly visible in the video \u2022 [EV ONLY] Ready-to-drive sound must be audible in the video \u2022 [DC ONLY] Vehicle must drive without a driver \u2022 [DC ONLY] In addition to the third person view, an onboard view and a visualization of the vehicle\u2019s environment perception and path planning must be shown in split screen. All parts must be time synchronized. \u2022 Must not exceed a length of 60 seconds. File size may be limited, see the competition handbook. \u2022 File format must be common e.g. avi, mpg, mp4, wmv"
+                                    "rule_text": "The video must fulfill the following criteria: \u2022 Continuous video from a third person view - no assembled sequences \u2022 Vehicle must be clearly visible (light, video resolution, frames and frequency) \u2022 Vehicle must run under its own power \u2022 Driving must follow A6.4.6 \u2022 Vehicle must be presented in ready-to-race conditions incl. body work \u2022 No crossing in front of the vehicle after [EV ONLY] TS activated / [CV ONLY] engine started \u2022 [EV ONLY] Tractive System Active Light (TSAL), [DC ONLY] Autonomous System Status Indicator (ASSI), and brake light, must be clearly visible in the video \u2022 [EV ONLY] Ready-to-drive sound must be audible in the video \u2022 [DC ONLY] Vehicle must drive without a driver \u2022 [DC ONLY] In addition to the third person view, an onboard view and a visualization of the vehicle's environment perception and path planning must be shown in split screen. All parts must be time synchronized. \u2022 Must not exceed a length of 60 seconds. File size may be limited, see the competition handbook. \u2022 File format must be common e.g. avi, mpg, mp4, wmv"
                                 },
                                 {
                                     "rule_shortname": "A5.6.4",
@@ -491,7 +492,7 @@
                                 },
                                 {
                                     "rule_shortname": "A5.6.5",
-                                    "rule_text": "If a team receives a \u201cfail\u201d for its video prior to the VSV deadline, the video will be treated as not submitted. A new upload is possible afterwards. In all other situations A5.3 and A5.4 apply."
+                                    "rule_text": "If a team receives a \"fail\" for its video prior to the VSV deadline, the video will be treated as not submitted. A new upload is possible afterwards. In all other situations A5.3 and A5.4 apply."
                                 },
                                 {
                                     "rule_shortname": "A5.6.6",
@@ -521,7 +522,7 @@
                                 },
                                 {
                                     "rule_shortname": "A5.7.5",
-                                    "rule_text": "The changelog with details of all changes made from the \u201cVersion History\u201d tab of the SES form must be attached to the SESA document and must also be signed by the SES reviewer."
+                                    "rule_text": "The changelog with details of all changes made from the \"Version History\" tab of the SES form must be attached to the SESA document and must also be signed by the SES reviewer."
                                 },
                                 {
                                     "rule_shortname": "A5.7.6",
@@ -599,7 +600,7 @@
                                 },
                                 {
                                     "rule_shortname": "A6.4.6",
-                                    "rule_text": "The following listed requirements are considered the minimum for a testing/operating environment to qualify as safe. Following these guidelines does not guarantee safety under all circumstances: \u2022 Driver wearing full protection gear according to T13.3 \u2022 Working TSAL, IMD, AMS, ASSI, RES, EBS, APPS/brake pedal plausibility check, APPS, and ETC plausibility check if applicable \u2022 Rules compliant chassis and mounted impact attenuator \u2022 No other passenger cars, trucks etc. being parked or driven on the same premise at the same time, unless the areas are clearly separated \u2022 No running under low visibility conditions \u2022 No running at speeds above typical event speeds \u2022 No running in areas where crashing into obstacles at the height of the driver\u2019s head is possible, such that parts of the vehicle may pass below an obstacle, but the driver\u2019s head can be trapped between the obstacle and the main hoop for example."
+                                    "rule_text": "The following listed requirements are considered the minimum for a testing/operating environment to qualify as safe. Following these guidelines does not guarantee safety under all circumstances: \u2022 Driver wearing full protection gear according to T13.3 \u2022 Working TSAL, IMD, AMS, ASSI, RES, EBS, APPS/brake pedal plausibility check, APPS, and ETC plausibility check if applicable \u2022 Rules compliant chassis and mounted impact attenuator \u2022 No other passenger cars, trucks etc. being parked or driven on the same premise at the same time, unless the areas are clearly separated \u2022 No running under low visibility conditions \u2022 No running at speeds above typical event speeds \u2022 No running in areas where crashing into obstacles at the height of the driver's head is possible, such that parts of the vehicle may pass below an obstacle, but the driver's head can be trapped between the obstacle and the main hoop for example."
                                 },
                                 {
                                     "rule_shortname": "A6.4.7",
@@ -665,7 +666,7 @@
                                 },
                                 {
                                     "rule_shortname": "A6.7.5",
-                                    "rule_text": "Vehicles must be pushed at a normal walking pace by means of a \u201cpush bar\u201d, see T13.1, and with a team member in the cockpit wearing the required driver equipment as defined in T13.3 except for helmet, arm restraints and balaclava."
+                                    "rule_text": "Vehicles must be pushed at a normal walking pace by means of a \"push bar\", see T13.1, and with a team member in the cockpit wearing the required driver equipment as defined in T13.3 except for helmet, arm restraints and balaclava."
                                 },
                                 {
                                     "rule_shortname": "A6.7.6",
@@ -833,71 +834,71 @@
                             "rules": [
                                 {
                                     "rule_shortname": "T1.1.1",
-                                    "rule_text": "Chassis \u2013 The fabricated structural assembly that supports all functional vehicle systems. This assembly may be a single welded structure, multiple welded structures or a combination of composite and welded structures."
+                                    "rule_text": "Chassis - The fabricated structural assembly that supports all functional vehicle systems. This assembly may be a single welded structure, multiple welded structures or a combination of composite and welded structures."
                                 },
                                 {
                                     "rule_shortname": "T1.1.2",
-                                    "rule_text": "Cockpit \u2013 The volume which accommodates the driver which is defined by the top of the vehicle, the floor closeout, the inner side of the bodywork, the front bulkhead and the firewall."
+                                    "rule_text": "Cockpit - The volume which accommodates the driver which is defined by the top of the vehicle, the floor closeout, the inner side of the bodywork, the front bulkhead and the firewall."
                                 },
                                 {
                                     "rule_shortname": "T1.1.3",
-                                    "rule_text": "Chassis member \u2013 A minimum representative single piece of uncut, continuous tubing or equivalent structure."
+                                    "rule_text": "Chassis member - A minimum representative single piece of uncut, continuous tubing or equivalent structure."
                                 },
                                 {
                                     "rule_shortname": "T1.1.4",
-                                    "rule_text": "Front bulkhead \u2013 A planar structure that defines the forward plane of the chassis and provides protection for the driver\u2019s feet (in front view, together with the AIP, covers the driver\u2019s feet)."
+                                    "rule_text": "Front bulkhead - A planar structure that defines the forward plane of the chassis and provides protection for the driver's feet (in front view, together with the AIP, covers the driver's feet)."
                                 },
                                 {
                                     "rule_shortname": "T1.1.5",
-                                    "rule_text": "Front bulkhead support \u2013 A structure that defines the side of the chassis from the front bulkhead back to the top of the upper side impact structure and the bottom of the front hoop."
+                                    "rule_text": "Front bulkhead support - A structure that defines the side of the chassis from the front bulkhead back to the top of the upper side impact structure and the bottom of the front hoop."
                                 },
                                 {
                                     "rule_shortname": "T1.1.6",
-                                    "rule_text": "Front hoop \u2013 A roll bar located above the driver\u2019s legs, in proximity to the steering wheel."
+                                    "rule_text": "Front hoop - A roll bar located above the driver's legs, in proximity to the steering wheel."
                                 },
                                 {
                                     "rule_shortname": "T1.1.7",
-                                    "rule_text": "Impact Attenuator (IA) \u2013 A deformable, energy absorbing device located forward of the front bulkhead."
+                                    "rule_text": "Impact Attenuator (IA) - A deformable, energy absorbing device located forward of the front bulkhead."
                                 },
                                 {
                                     "rule_shortname": "T1.1.8",
-                                    "rule_text": "Main hoop \u2013 A roll bar located alongside or just behind the driver\u2019s torso."
+                                    "rule_text": "Main hoop - A roll bar located alongside or just behind the driver's torso."
                                 },
                                 {
                                     "rule_shortname": "T1.1.9",
-                                    "rule_text": "Monocoque \u2013 A chassis made of composite material."
+                                    "rule_text": "Monocoque - A chassis made of composite material."
                                 },
                                 {
                                     "rule_shortname": "T1.1.10",
-                                    "rule_text": "Node-to-node triangulation \u2013 An arrangement of chassis members projected onto a plane, where a co-planar load applied in any direction, at any node, results in only tensile or compressive forces in the chassis members as shown in figure 1. {{Figure 1}}"
+                                    "rule_text": "Node-to-node triangulation - An arrangement of chassis members projected onto a plane, where a co-planar load applied in any direction, at any node, results in only tensile or compressive forces in the chassis members as shown in figure 1. {{Figure 1}}"
                                 },
                                 {
                                     "rule_shortname": "T1.1.11",
-                                    "rule_text": "Primary structure \u2013 The primary structure is comprised of the following components: \u2022 Main hoop \u2022 Front hoop \u2022 Roll hoop braces and supports \u2022 Side impact structure \u2022 Front bulkhead \u2022 Front bulkhead support system \u2022 All chassis members, guides and supports that transfer load from the driver\u2019s restraint system into the above mentioned components of the primary structure \u2022 [EV ONLY] structures mentioned under EV4.4.2 and EV5.5.2 \u2022 [CV ONLY] structures mentioned under CV1.3.2"
+                                    "rule_text": "Primary structure - The primary structure is comprised of the following components: \u2022 Main hoop \u2022 Front hoop \u2022 Roll hoop braces and supports \u2022 Side impact structure \u2022 Front bulkhead \u2022 Front bulkhead support system \u2022 All chassis members, guides and supports that transfer load from the driver's restraint system into the above mentioned components of the primary structure \u2022 [EV ONLY] structures mentioned under EV4.4.2 and EV5.5.2 \u2022 [CV ONLY] structures mentioned under CV1.3.2"
                                 },
                                 {
                                     "rule_shortname": "T1.1.12",
-                                    "rule_text": "Roll hoops \u2013 Both the front hoop and the main hoop are classified as \u201croll hoops\u201d"
+                                    "rule_text": "Roll hoops - Both the front hoop and the main hoop are classified as \"roll hoops\""
                                 },
                                 {
                                     "rule_shortname": "T1.1.13",
-                                    "rule_text": "Roll hoop bracing \u2013 The structure from a roll hoop to the roll hoop bracing support."
+                                    "rule_text": "Roll hoop bracing - The structure from a roll hoop to the roll hoop bracing support."
                                 },
                                 {
                                     "rule_shortname": "T1.1.14",
-                                    "rule_text": "Roll hoop bracing supports \u2013 The structure from the lower end of the roll hoop bracing back to the roll hoop(s)."
+                                    "rule_text": "Roll hoop bracing supports - The structure from the lower end of the roll hoop bracing back to the roll hoop(s)."
                                 },
                                 {
                                     "rule_shortname": "T1.1.15",
-                                    "rule_text": "Rollover protection envelope \u2013 Envelope of the primary structure and any additional structures fixed to the primary structure which meet the minimum specification defined in T3.2 or equivalent, see Figure 3."
+                                    "rule_text": "Rollover protection envelope - Envelope of the primary structure and any additional structures fixed to the primary structure which meet the minimum specification defined in T3.2 or equivalent, see Figure 3."
                                 },
                                 {
                                     "rule_shortname": "T1.1.16",
-                                    "rule_text": "Side impact structure \u2013 The area of the side of the chassis between the front hoop and the main hoop and from the chassis floor to the height as required in T3.15 above the lowest inside chassis point between front hoop and main hoop."
+                                    "rule_text": "Side impact structure - The area of the side of the chassis between the front hoop and the main hoop and from the chassis floor to the height as required in T3.15 above the lowest inside chassis point between front hoop and main hoop."
                                 },
                                 {
                                     "rule_shortname": "T1.1.17",
-                                    "rule_text": "Surface envelope \u2013 The surface envelope is the surface of the union of the rollover protection envelope, see T1.1.15, and the volume defined by top of the roll bar and the outside edges of the four tires, see Figure 2.{{Figure 2}}{{Figure 3}}"
+                                    "rule_text": "Surface envelope - The surface envelope is the surface of the union of the rollover protection envelope, see T1.1.15, and the volume defined by top of the roll bar and the outside edges of the four tires, see Figure 2.{{Figure 2}}{{Figure 3}}"
                                 }
                             ]
                         },
@@ -907,11 +908,11 @@
                             "rules": [
                                 {
                                     "rule_shortname": "T1.2.1",
-                                    "rule_text": "Fire Retardant \u2013 A material meeting one of the following standards: \u2022 UL94 V-0 for the minimum used material thickness \u2022 FAR 25.853(a)(1)(i) Equivalent standards are only accepted, if the team shows equivalence and this is approved by the officials prior to the event."
+                                    "rule_text": "Fire Retardant - A material meeting one of the following standards: \u2022 UL94 V-0 for the minimum used material thickness \u2022 FAR 25.853(a)(1)(i) Equivalent standards are only accepted, if the team shows equivalence and this is approved by the officials prior to the event."
                                 },
                                 {
                                     "rule_shortname": "T1.2.2",
-                                    "rule_text": "Coolant \u2013 A substance used for heat transfer by convection."
+                                    "rule_text": "Coolant - A substance used for heat transfer by convection."
                                 }
                             ]
                         },
@@ -921,7 +922,7 @@
                             "rules": [
                                 {
                                     "rule_shortname": "T1.3.1",
-                                    "rule_text": "Direct Connection \u2013 Two devices or circuits are directly connected if the connection is not routed through any common PCB and does not include any devices or functionality other than overcurrent protection or connectors."
+                                    "rule_text": "Direct Connection - Two devices or circuits are directly connected if the connection is not routed through any common PCB and does not include any devices or functionality other than overcurrent protection or connectors."
                                 }
                             ]
                         },
@@ -931,11 +932,11 @@
                             "rules": [
                                 {
                                     "rule_shortname": "T1.4.1",
-                                    "rule_text": "Manual Mode \u2013 A vehicle is in manual mode when driven by a human driver. In this case the ASMS must be off (AS deactivated)."
+                                    "rule_text": "Manual Mode - A vehicle is in manual mode when driven by a human driver. In this case the ASMS must be off (AS deactivated)."
                                 },
                                 {
                                     "rule_shortname": "T1.4.2",
-                                    "rule_text": "Autonomous Mode \u2013 A vehicle is in autonomous mode when the AS is activated. When a vehicle is in autonomous mode, there must be no person inside the vehicle."
+                                    "rule_text": "Autonomous Mode - A vehicle is in autonomous mode when the AS is activated. When a vehicle is in autonomous mode, there must be no person inside the vehicle."
                                 }
                             ]
                         }
@@ -1019,7 +1020,7 @@
                             "rules": [
                                 {
                                     "rule_shortname": "T2.5.1",
-                                    "rule_text": "Any wheel mounting system that uses a single retaining nut must incorporate a device to prevent loosening of the nut and the wheel. A second nut (\u201cjam nut\u201d) does not meet these requirements."
+                                    "rule_text": "Any wheel mounting system that uses a single retaining nut must incorporate a device to prevent loosening of the nut and the wheel. A second nut (\"jam nut\") does not meet these requirements."
                                 },
                                 {
                                     "rule_shortname": "T2.5.2",
@@ -1037,7 +1038,7 @@
                             "rules": [
                                 {
                                     "rule_shortname": "T2.6.1",
-                                    "rule_text": "Vehicles must have two types of tires as follows: \u2022 Dry tires - The tires on the vehicle when it is presented for technical inspection are defined as its \u201cdry tires\u201d. \u2022 Wet tires - Wet tires may be any size or type of treaded or grooved tire provided: \u2013 The tread pattern or grooves were molded in by the tire manufacturer or were cut by the tire manufacturer or their appointed agent. Any grooves that have been cut must have documentary proof that it was done in accordance with these rules. \u2013 There is a minimum tread depth of 2.4 mm."
+                                    "rule_text": "Vehicles must have two types of tires as follows: \u2022 Dry tires - The tires on the vehicle when it is presented for technical inspection are defined as its \"dry tires\". \u2022 Wet tires - Wet tires may be any size or type of treaded or grooved tire provided: - The tread pattern or grooves were molded in by the tire manufacturer or were cut by the tire manufacturer or their appointed agent. Any grooves that have been cut must have documentary proof that it was done in accordance with these rules. - There is a minimum tread depth of 2.4 mm."
                                 },
                                 {
                                     "rule_shortname": "T2.6.2",
@@ -1139,7 +1140,7 @@
                             "rules": [
                                 {
                                     "rule_shortname": "T3.1.1",
-                                    "rule_text": "Among other requirements, the vehicle\u2019s structure must include: \u2022 Two roll hoops that are braced \u2022 A front bulkhead with support system and IA \u2022 Side impact structures"
+                                    "rule_text": "Among other requirements, the vehicle's structure must include: \u2022 Two roll hoops that are braced \u2022 A front bulkhead with support system and IA \u2022 Side impact structures"
                                 }
                             ]
                         },
@@ -1161,7 +1162,7 @@
                                 },
                                 {
                                     "rule_shortname": "T3.2.4",
-                                    "rule_text": "The steel properties used for the calculations in the SES must be: Non-welded strength for continuous material calculations: \u2022 Young\u2019s Modulus (E) = 200 GPa \u2022 Yield Strength (Sy) = 305 MPa \u2022 Ultimate Strength (Su) = 365 MPa Welded strength for discontinuous material such as joint calculations: \u2022 Yield Strength (Sy) = 180 MPa \u2022 Ultimate Strength (Su) = 300 MPa"
+                                    "rule_text": "The steel properties used for the calculations in the SES must be: Non-welded strength for continuous material calculations: \u2022 Young's Modulus (E) = 200 GPa \u2022 Yield Strength (Sy) = 305 MPa \u2022 Ultimate Strength (Su) = 365 MPa Welded strength for discontinuous material such as joint calculations: \u2022 Yield Strength (Sy) = 180 MPa \u2022 Ultimate Strength (Su) = 300 MPa"
                                 },
                                 {
                                     "rule_shortname": "T3.2.5",
@@ -1285,7 +1286,7 @@
                                 },
                                 {
                                     "rule_shortname": "T3.6.3",
-                                    "rule_text": "The SE3D must contain a three dimensional CAD model of the chassis including all members of the primary structure and all mechanical attachment details of the hoops and hoop braces in \u201cIGES\u201d file format not larger than 40 MB. [EV ONLY] The TSAC(s) and attachment must also be included."
+                                    "rule_text": "The SE3D must contain a three dimensional CAD model of the chassis including all members of the primary structure and all mechanical attachment details of the hoops and hoop braces in \"IGES\" file format not larger than 40 MB. [EV ONLY] The TSAC(s) and attachment must also be included."
                                 },
                                 {
                                     "rule_shortname": "T3.6.4",
@@ -1415,7 +1416,7 @@
                             "rules": [
                                 {
                                     "rule_shortname": "T3.11.1",
-                                    "rule_text": "The front hoop bracing attaches on each side of the front hoop as well as the structure forward of the driver\u2019s feet. A minimum of two tubes without any bends must be straight on a line in side view of the frame and must have a minimum distance of 100 mm between each other at the front hoop."
+                                    "rule_text": "The front hoop bracing attaches on each side of the front hoop as well as the structure forward of the driver's feet. A minimum of two tubes without any bends must be straight on a line in side view of the frame and must have a minimum distance of 100 mm between each other at the front hoop."
                                 },
                                 {
                                     "rule_shortname": "T3.11.2",
@@ -1467,7 +1468,7 @@
                                 },
                                 {
                                     "rule_shortname": "T3.13.2",
-                                    "rule_text": "If the front bulkhead is part of a composite structure and is modeled as an \u201cL\u201d shape, the EI of the front bulkhead about the vertical and lateral axes must be equivalent to a steel tube meeting the requirements for the front bulkhead. The length of the section perpendicular to the bulkhead may be a maximum of 25 mm measured from the rearmost face of the bulkhead. {{Figure 8}}"
+                                    "rule_text": "If the front bulkhead is part of a composite structure and is modeled as an \"L\" shape, the EI of the front bulkhead about the vertical and lateral axes must be equivalent to a steel tube meeting the requirements for the front bulkhead. The length of the section perpendicular to the bulkhead may be a maximum of 25 mm measured from the rearmost face of the bulkhead. {{Figure 8}}"
                                 }
                             ]
                         },
@@ -1567,7 +1568,7 @@
                                 },
                                 {
                                     "rule_shortname": "T3.17.7",
-                                    "rule_text": "A team may use one of the \u201cstandard\u201d FSAE IAs, in order to avoid testing, provided that: \u2022 if the front bulkhead width is larger than 400 mm and/or its height is larger than 350 mm a diagonal or X-bracing that is a front bulkhead support tube or an approved equivalent per T3.2, must be included in the front bulkhead. Or equivalent for mono- coque bulkheads. \u2022 must use a 1.5 mm solid steel AIP that is welded along its full perimeter to a steel bulkhead or use a 4 mm solid aluminium AIP that is bolted to any bulkhead with a minimum of eight 8 mm metric grade 8.8 bolts \u2022 if the \u201cstandard\u201d honeycomb IA is used, the IA must be of pre-crushed type"
+                                    "rule_text": "A team may use one of the \"standard\" FSAE IAs, in order to avoid testing, provided that: \u2022 if the front bulkhead width is larger than 400 mm and/or its height is larger than 350 mm a diagonal or X-bracing that is a front bulkhead support tube or an approved equivalent per T3.2, must be included in the front bulkhead. Or equivalent for mono- coque bulkheads. \u2022 must use a 1.5 mm solid steel AIP that is welded along its full perimeter to a steel bulkhead or use a 4 mm solid aluminium AIP that is bolted to any bulkhead with a minimum of eight 8 mm metric grade 8.8 bolts \u2022 if the \"standard\" honeycomb IA is used, the IA must be of pre-crushed type"
                                 },
                                 {
                                     "rule_shortname": "T3.17.8",
@@ -1603,7 +1604,7 @@
                                 },
                                 {
                                     "rule_shortname": "T3.19.4",
-                                    "rule_text": "Vehicles with aerodynamic devices and/or sensors in front of the front bulkhead must not exceed the peak deceleration of T3.19.1 for the combination of their IA assembly and the non-crushable object(s). Any of the following three methods may be used to prove the design does not exceed 120 kN : \u2022 Physical testing of the IA assembly including any attached non-crushable object(s) or structurally representative dummies thereof in front of the AIP. \u2022 Combining the peak force from physical testing of the IA assembly with the failure load for the mounting of the non-crushable object(s), calculated from fastener shear and/or link buckling. \u2022 Combining the \u201cstandard\u201d IA peak load of 95 kN with the failure load for the mounting of the non-crushable object(s), calculated from fastener shear and/or link buckling."
+                                    "rule_text": "Vehicles with aerodynamic devices and/or sensors in front of the front bulkhead must not exceed the peak deceleration of T3.19.1 for the combination of their IA assembly and the non-crushable object(s). Any of the following three methods may be used to prove the design does not exceed 120 kN : \u2022 Physical testing of the IA assembly including any attached non-crushable object(s) or structurally representative dummies thereof in front of the AIP. \u2022 Combining the peak force from physical testing of the IA assembly with the failure load for the mounting of the non-crushable object(s), calculated from fastener shear and/or link buckling. \u2022 Combining the \"standard\" IA peak load of 95 kN with the failure load for the mounting of the non-crushable object(s), calculated from fastener shear and/or link buckling."
                                 },
                                 {
                                     "rule_shortname": "T3.19.5",
@@ -1663,7 +1664,7 @@
                                 },
                                 {
                                     "rule_shortname": "T4.2.3",
-                                    "rule_text": "The driver\u2019s feet and legs must be completely contained within the primary structure when the driver is seated normally and the driver\u2019s feet are touching the pedals. In side and front views, any part of the driver\u2019s feet or legs must not extend above or outside of this structure."
+                                    "rule_text": "The driver's feet and legs must be completely contained within the primary structure when the driver is seated normally and the driver's feet are touching the pedals. In side and front views, any part of the driver's feet or legs must not extend above or outside of this structure."
                                 }
                             ]
                         },
@@ -1673,7 +1674,7 @@
                             "rules": [
                                 {
                                     "rule_shortname": "T4.3.1",
-                                    "rule_text": "When seated normally and restrained by the driver\u2019s restraint system, the helmet of a 95th percentile male and all of the team\u2019s drivers must, see figure 13: \u2022 Be a minimum of 50 mm away from the straight line drawn from the top of the main hoop to the top of the front hoop. \u2022 Be a minimum of 50 mm away from the straight line drawn from the top of the main hoop to the lower end of the main hoop bracing if the bracing extends rearwards.{{Figure 12}} \u2022 Be no further rearwards than the rear surface of the main hoop if the main hoop bracing extends forwards.{{Figure 13}}"
+                                    "rule_text": "When seated normally and restrained by the driver's restraint system, the helmet of a 95th percentile male and all of the team's drivers must, see figure 13: \u2022 Be a minimum of 50 mm away from the straight line drawn from the top of the main hoop to the top of the front hoop. \u2022 Be a minimum of 50 mm away from the straight line drawn from the top of the main hoop to the lower end of the main hoop bracing if the bracing extends rearwards.{{Figure 12}} \u2022 Be no further rearwards than the rear surface of the main hoop if the main hoop bracing extends forwards.{{Figure 13}}"
                                 },
                                 {
                                     "rule_shortname": "T4.3.2",
@@ -1695,13 +1696,13 @@
                             "rules": [
                                 {
                                     "rule_shortname": "T4.4.1",
-                                    "rule_text": "If there is any chassis member alongside the driver at the height of the neck of any of the drivers in the team, a metal tube or piece of sheet metal must be attached to the chassis to prevent the driver\u2019s shoulders from passing under that chassis member."
+                                    "rule_text": "If there is any chassis member alongside the driver at the height of the neck of any of the drivers in the team, a metal tube or piece of sheet metal must be attached to the chassis to prevent the driver's shoulders from passing under that chassis member."
                                 }
                             ]
                         },
                         {
                             "chapter_shortname": "T4.5",
-                            "chapter_name": "Driver\u2019s Harness Attachment",
+                            "chapter_name": "Driver's Harness Attachment",
                             "rules": [
                                 {
                                     "rule_shortname": "T4.5.1",
@@ -1721,21 +1722,21 @@
                                 },
                                 {
                                     "rule_shortname": "T4.5.5",
-                                    "rule_text": "If the belts are attached to a laminated structure or the mounting brackets and tabs are not made from steel at least 1.6 mm or aluminium at least 4.0 mm thick, physical testing is required. The following requirements must be met: \u2022 Load is applied to a test sample representing the tubular or laminated structure and must use the same brackets and tabs \u2022 Edges of the test fixture supporting the sample must be a minimum of 125 mm from the load application point. \u2022 The width of the shoulder harness test sample must not be any wider than the shoulder harness panel height used to show equivalency for the shoulder harness mounting bar. \u2022 Designs with attachments near a free edge may not support the free edge during the test. \u2022 Harness loads must be tested with the worst case for the range of the angles specified for the driver\u2019s harness."
+                                    "rule_text": "If the belts are attached to a laminated structure or the mounting brackets and tabs are not made from steel at least 1.6 mm or aluminium at least 4.0 mm thick, physical testing is required. The following requirements must be met: \u2022 Load is applied to a test sample representing the tubular or laminated structure and must use the same brackets and tabs \u2022 Edges of the test fixture supporting the sample must be a minimum of 125 mm from the load application point. \u2022 The width of the shoulder harness test sample must not be any wider than the shoulder harness panel height used to show equivalency for the shoulder harness mounting bar. \u2022 Designs with attachments near a free edge may not support the free edge during the test. \u2022 Harness loads must be tested with the worst case for the range of the angles specified for the driver's harness."
                                 }
                             ]
                         },
                         {
                             "chapter_shortname": "T4.6",
-                            "chapter_name": "Driver\u2019s Seat",
+                            "chapter_name": "Driver's Seat",
                             "rules": [
                                 {
                                     "rule_shortname": "T4.6.1",
-                                    "rule_text": "The lowest point of the driver\u2019s seat must in side view not extend below the upper face of the lowest side impact structure member or have a longitudinal tube (or tubes) that meets the material requirements for the side impact structure (T3.2), passing underneath the lowest point of the seat."
+                                    "rule_text": "The lowest point of the driver's seat must in side view not extend below the upper face of the lowest side impact structure member or have a longitudinal tube (or tubes) that meets the material requirements for the side impact structure (T3.2), passing underneath the lowest point of the seat."
                                 },
                                 {
                                     "rule_shortname": "T4.6.2",
-                                    "rule_text": "Adequate heat insulation must be provided to ensure that the driver is not able to contact any parts of the vehicle with a surface temperature above 60 \u00b0C. The insulation may be external to the cockpit or incorporated with the driver\u2019s seat or firewall. The design must address all three types of heat transfer with the following minimum requirements between the heat source and the part that the driver could contact: (a) Conduction insulation by: (i) No direct contact, or (ii) a heat resistant, conduction insulation material with a minimum thickness of 8 mm. (b) Convection insulation by a minimum air gap of 25 mm. (c) Radiation insulation by: (i) A solid metal heat shield with a minimum thickness of 0.4 mm or (ii) reflective foil or tape when combined with T4.6.2.a.ii."
+                                    "rule_text": "Adequate heat insulation must be provided to ensure that the driver is not able to contact any parts of the vehicle with a surface temperature above 60 \u00b0C. The insulation may be external to the cockpit or incorporated with the driver's seat or firewall. The design must address all three types of heat transfer with the following minimum requirements between the heat source and the part that the driver could contact: (a) Conduction insulation by: (i) No direct contact, or (ii) a heat resistant, conduction insulation material with a minimum thickness of 8 mm. (b) Convection insulation by a minimum air gap of 25 mm. (c) Radiation insulation by: (i) A solid metal heat shield with a minimum thickness of 0.4 mm or (ii) reflective foil or tape when combined with T4.6.2.a.ii."
                                 }
                             ]
                         },
@@ -1775,7 +1776,7 @@
                                 },
                                 {
                                     "rule_shortname": "T4.8.3",
-                                    "rule_text": "The firewall must be a non-permeable surface made from a rigid, fire resistant material, see T1.2.1, which must be rigidly mounted to the vehicle\u2019s structure."
+                                    "rule_text": "The firewall must be a non-permeable surface made from a rigid, fire resistant material, see T1.2.1, which must be rigidly mounted to the vehicle's structure."
                                 },
                                 {
                                     "rule_shortname": "T4.8.4",
@@ -1795,7 +1796,7 @@
                                 },
                                 {
                                     "rule_shortname": "T4.8.8",
-                                    "rule_text": "[EV ONLY] Conductive parts, except for the chassis and firewall mounting points, may not protrude through the TS firewall or must be properly insulated on the driver\u2019s side. The driver must not be able to touch uninsulated firewall mounting points while operating the vehicle."
+                                    "rule_text": "[EV ONLY] Conductive parts, except for the chassis and firewall mounting points, may not protrude through the TS firewall or must be properly insulated on the driver's side. The driver must not be able to touch uninsulated firewall mounting points while operating the vehicle."
                                 },
                                 {
                                     "rule_shortname": "T4.8.9",
@@ -1849,19 +1850,19 @@
                             "rules": [
                                 {
                                     "rule_shortname": "T5.1.1",
-                                    "rule_text": "6-point system \u2013 Consists of a two-piece lap belt (minimum width 50 mm), two shoulder straps (minimum width 75 mm) and two leg or anti-submarine straps (minimum width 50 mm)."
+                                    "rule_text": "6-point system - Consists of a two-piece lap belt (minimum width 50 mm), two shoulder straps (minimum width 75 mm) and two leg or anti-submarine straps (minimum width 50 mm)."
                                 },
                                 {
                                     "rule_shortname": "T5.1.2",
-                                    "rule_text": "7-point system \u2013 Same as the 6-point system except it has three anti-submarine straps."
+                                    "rule_text": "7-point system - Same as the 6-point system except it has three anti-submarine straps."
                                 },
                                 {
                                     "rule_shortname": "T5.1.3",
-                                    "rule_text": "upright driving position \u2013 Position with a seat back angled at 30\u00b0 or less from the vertical as measured along the line joining the two 200 mm circles of the 95th percentile male template as defined in T4.3 and positioned per T4.3.4."
+                                    "rule_text": "upright driving position - Position with a seat back angled at 30\u00b0 or less from the vertical as measured along the line joining the two 200 mm circles of the 95th percentile male template as defined in T4.3 and positioned per T4.3.4."
                                 },
                                 {
                                     "rule_shortname": "T5.1.4",
-                                    "rule_text": "reclined driving position \u2013 Position with a seat back angled at more than 30\u00b0 from the vertical as measured along the line joining the two 200 mm circles of the 95th percentile male template as defined in T4.3 and positioned per T4.3.4"
+                                    "rule_text": "reclined driving position - Position with a seat back angled at more than 30\u00b0 from the vertical as measured along the line joining the two 200 mm circles of the 95th percentile male template as defined in T4.3 and positioned per T4.3.4"
                                 }
                             ]
                         },
@@ -1871,7 +1872,7 @@
                             "rules": [
                                 {
                                     "rule_shortname": "T5.2.1",
-                                    "rule_text": "All drivers must use a 6-point or 7-point restraint harness meeting the following specifica- tions: \u2022 All driver restraint systems must meet SFI Specification 16.1, SFI Specification 16.5, SFI Specification 16.6 or FIA specification 8853/2016. \u2022 The belts must bear the appropriate dated labels. \u2022 The material of all straps must be in perfect condition. \u2022 There must be a single metal-to-metal latch type quick release for all straps. \u2022 All lap belts must incorporate a tilt lock adjuster (\u201cquick adjuster\u201d). A tilt lock adjuster in each portion of the lap belt is highly recommended. Lap belts with \u201cpull-up\u201d adjusters are recommended over \u201cpull-down\u201d adjusters. \u2022 Vehicles with a \u201creclined driving position\u201d must have either anti-submarine belts with tilt lock adjusters (\u201cquick adjusters\u201d) or have two sets of anti-submarine belts installed. \u2022 The shoulder harness must be the \u201cover-the-shoulder type\u201d. Only separate shoulder straps are permitted (i.e. \u201cY\u201d-type shoulder straps are not allowed). The \u201cH\u201d-type configuration is allowed. \u2022 The shoulder harness straps must be threaded through the three bar adjusters in accordance with the manufacturer\u2019s instructions. \u2022 When a HANS device is used by the driver, FIA certified 50 mm wide shoulder harnesses are allowed."
+                                    "rule_text": "All drivers must use a 6-point or 7-point restraint harness meeting the following specifica- tions: \u2022 All driver restraint systems must meet SFI Specification 16.1, SFI Specification 16.5, SFI Specification 16.6 or FIA specification 8853/2016. \u2022 The belts must bear the appropriate dated labels. \u2022 The material of all straps must be in perfect condition. \u2022 There must be a single metal-to-metal latch type quick release for all straps. \u2022 All lap belts must incorporate a tilt lock adjuster (\"quick adjuster\"). A tilt lock adjuster in each portion of the lap belt is highly recommended. Lap belts with \"pull-up\" adjusters are recommended over \"pull-down\" adjusters. \u2022 Vehicles with a \"reclined driving position\" must have either anti-submarine belts with tilt lock adjusters (\"quick adjusters\") or have two sets of anti-submarine belts installed. \u2022 The shoulder harness must be the \"over-the-shoulder type\". Only separate shoulder straps are permitted (i.e. \"Y\"-type shoulder straps are not allowed). The \"H\"-type configuration is allowed. \u2022 The shoulder harness straps must be threaded through the three bar adjusters in accordance with the manufacturer's instructions. \u2022 When a HANS device is used by the driver, FIA certified 50 mm wide shoulder harnesses are allowed."
                                 },
                                 {
                                     "rule_shortname": "T5.2.2",
@@ -1893,11 +1894,11 @@
                                 },
                                 {
                                     "rule_shortname": "T5.3.2",
-                                    "rule_text": "Harnesses, belts and straps must not pass through a firewall, i.e. all harness attachment points must be on the driver\u2019s side of any firewall."
+                                    "rule_text": "Harnesses, belts and straps must not pass through a firewall, i.e. all harness attachment points must be on the driver's side of any firewall."
                                 },
                                 {
                                     "rule_shortname": "T5.3.3",
-                                    "rule_text": "The attachment of the driver\u2019s restraint system requires an approved SES per T3.6 The lap belts and anti submarine belts must not be routed over the sides of the seat. Where the belts or harness pass through a hole in the seat, the seat must be rolled or grommeted to prevent chafing of the belts."
+                                    "rule_text": "The attachment of the driver's restraint system requires an approved SES per T3.6 The lap belts and anti submarine belts must not be routed over the sides of the seat. Where the belts or harness pass through a hole in the seat, the seat must be rolled or grommeted to prevent chafing of the belts."
                                 }
                             ]
                         },
@@ -1919,11 +1920,11 @@
                                 },
                                 {
                                     "rule_shortname": "T5.4.4",
-                                    "rule_text": "With an \u201cupright driving position\u201d, in side view the lap belt must be at an angle of between 45\u00b0 and 65\u00b0 to the horizontal."
+                                    "rule_text": "With an \"upright driving position\", in side view the lap belt must be at an angle of between 45\u00b0 and 65\u00b0 to the horizontal."
                                 },
                                 {
                                     "rule_shortname": "T5.4.5",
-                                    "rule_text": "With a \u201creclined driving position\u201d, in side view the lap belt must be between an angle of 60\u00b0 and 80\u00b0 to the horizontal."
+                                    "rule_text": "With a \"reclined driving position\", in side view the lap belt must be between an angle of 60\u00b0 and 80\u00b0 to the horizontal."
                                 },
                                 {
                                     "rule_shortname": "T5.4.6",
@@ -1945,7 +1946,7 @@
                                 },
                                 {
                                     "rule_shortname": "T5.5.3",
-                                    "rule_text": "The strength of any shoulder harness bar bracing tubes must be proved in the relevant tab of the team\u2019s SES submission."
+                                    "rule_text": "The strength of any shoulder harness bar bracing tubes must be proved in the relevant tab of the team's SES submission."
                                 },
                                 {
                                     "rule_shortname": "T5.5.4",
@@ -1953,7 +1954,7 @@
                                 },
                                 {
                                     "rule_shortname": "T5.5.5",
-                                    "rule_text": "From the driver\u2019s shoulders rearwards to the mounting point or structural guide, the shoulder harness must be between 10\u00b0 above the horizontal and 20\u00b0 below the horizontal as in figure 15.{{Figure 15}}"
+                                    "rule_text": "From the driver's shoulders rearwards to the mounting point or structural guide, the shoulder harness must be between 10\u00b0 above the horizontal and 20\u00b0 below the horizontal as in figure 15.{{Figure 15}}"
                                 }
                             ]
                         },
@@ -1973,11 +1974,11 @@
                             "rules": [
                                 {
                                     "rule_shortname": "T5.7.1",
-                                    "rule_text": "A head restraint must be provided on the vehicle to limit the rearward motion of the driver\u2019s head."
+                                    "rule_text": "A head restraint must be provided on the vehicle to limit the rearward motion of the driver's head."
                                 },
                                 {
                                     "rule_shortname": "T5.7.2",
-                                    "rule_text": "The head restraint must: \u2022 Be vertical or near vertical in side view. \u2022 Be padded with an energy absorbing material with a minimum thickness of 40 mm that meets either the SFI 45.2 standard, or is listed in the FIA technical list n\u00b017 as a type B material for single seater cars. \u2022 Have a minimum width and height of 150 mm. \u2022 Be located so that for each driver: \u2013 The restraint is no more than 25 mm away from the back of the driver\u2019s helmet, with the driver in their normal driving position. \u2013 The contact point of the back of the driver\u2019s helmet on the head restraint is no less than 50 mm from any edge of the head restraint."
+                                    "rule_text": "The head restraint must: \u2022 Be vertical or near vertical in side view. \u2022 Be padded with an energy absorbing material with a minimum thickness of 40 mm that meets either the SFI 45.2 standard, or is listed in the FIA technical list n\u00b017 as a type B material for single seater cars. \u2022 Have a minimum width and height of 150 mm. \u2022 Be located so that for each driver: - The restraint is no more than 25 mm away from the back of the driver's helmet, with the driver in their normal driving position. - The contact point of the back of the driver's helmet on the head restraint is no less than 50 mm from any edge of the head restraint."
                                 },
                                 {
                                     "rule_shortname": "T5.7.3",
@@ -1991,13 +1992,13 @@
                             "rules": [
                                 {
                                     "rule_shortname": "T5.8.1",
-                                    "rule_text": "Any portion of the roll bar, roll bar bracing or chassis which might be contacted by the driver\u2019s helmet must be covered with a minimum thickness of 12 mm of padding which meets SFI spec 45.1 or FIA 8857-2001."
+                                    "rule_text": "Any portion of the roll bar, roll bar bracing or chassis which might be contacted by the driver's helmet must be covered with a minimum thickness of 12 mm of padding which meets SFI spec 45.1 or FIA 8857-2001."
                                 }
                             ]
                         },
                         {
                             "chapter_shortname": "T5.9",
-                            "chapter_name": "Driver\u2019s Leg Protection",
+                            "chapter_name": "Driver's Leg Protection",
                             "rules": [
                                 {
                                     "rule_shortname": "T5.9.1",
@@ -2037,7 +2038,7 @@
                                 },
                                 {
                                     "rule_shortname": "T6.1.5",
-                                    "rule_text": "\u201cBrake-by-wire\u201d systems are prohibited in manual mode."
+                                    "rule_text": "\"Brake-by-wire\" systems are prohibited in manual mode."
                                 },
                                 {
                                     "rule_shortname": "T6.1.6",
@@ -2097,7 +2098,7 @@
                                 },
                                 {
                                     "rule_shortname": "T6.3.3",
-                                    "rule_text": "In side view the brake light must be orientated vertical or near vertical and mounted between the wheel centerline and driver\u2019s shoulder level. Viewed from the back it should be positioned approximately at the vehicle\u2019s centerline."
+                                    "rule_text": "In side view the brake light must be orientated vertical or near vertical and mounted between the wheel centerline and driver's shoulder level. Viewed from the back it should be positioned approximately at the vehicle's centerline."
                                 }
                             ]
                         }
@@ -2151,7 +2152,7 @@
                                 },
                                 {
                                     "rule_shortname": "T7.2.8",
-                                    "rule_text": "Catch cans must be rigidly mounted to the chassis and located rearwards of the firewall below the driver\u2019s shoulder level."
+                                    "rule_text": "Catch cans must be rigidly mounted to the chassis and located rearwards of the firewall below the driver's shoulder level."
                                 },
                                 {
                                     "rule_shortname": "T7.2.9",
@@ -2285,7 +2286,7 @@
                             "rules": [
                                 {
                                     "rule_shortname": "T10.1.1",
-                                    "rule_text": "Critical fasteners are defined as bolts, nuts, and other fasteners utilized in the primary structure, the steering, braking, driver\u2019s harness, suspension systems and those specifically designated as critical fasteners in the respective rule."
+                                    "rule_text": "Critical fasteners are defined as bolts, nuts, and other fasteners utilized in the primary structure, the steering, braking, driver's harness, suspension systems and those specifically designated as critical fasteners in the respective rule."
                                 },
                                 {
                                     "rule_shortname": "T10.1.2",
@@ -2297,7 +2298,7 @@
                                 },
                                 {
                                     "rule_shortname": "T10.1.4",
-                                    "rule_text": "Any bolted joint in the primary structure and mounting of the TSAC to the chassis using either tabs or brackets, must have an edge distance ratio \u201ce/D\u201d of 1.5 or greater. \u201cD\u201d equals the hole diameter and \u201ce\u201d equals the distance from the hole centerline to the nearest free edge of the tab or bracket. Any tabs attaching suspension members to the primary structure are not required to meet this rule."
+                                    "rule_text": "Any bolted joint in the primary structure and mounting of the TSAC to the chassis using either tabs or brackets, must have an edge distance ratio \"e/D\" of 1.5 or greater. \"D\" equals the hole diameter and \"e\" equals the distance from the hole centerline to the nearest free edge of the tab or bracket. Any tabs attaching suspension members to the primary structure are not required to meet this rule."
                                 }
                             ]
                         },
@@ -2377,11 +2378,11 @@
                                 },
                                 {
                                     "rule_shortname": "T11.2.2",
-                                    "rule_text": "Master switches must be located on the right side of the vehicle, in proximity to the main hoop, at the 95th percentile male driver\u2019s shoulder height, as defined in T4.3, and be easily actuated from outside the vehicle. The center of any master switch must not be mounted lower than the vertical distance of the template\u2019s, see T4.3, middle circle center to the ground surface multiplied by 0.8."
+                                    "rule_text": "Master switches must be located on the right side of the vehicle, in proximity to the main hoop, at the 95th percentile male driver's shoulder height, as defined in T4.3, and be easily actuated from outside the vehicle. The center of any master switch must not be mounted lower than the vertical distance of the template's, see T4.3, middle circle center to the ground surface multiplied by 0.8."
                                 },
                                 {
                                     "rule_shortname": "T11.2.3",
-                                    "rule_text": "The \u201cON\u201d position of the switch must be in the horizontal position and must be marked accordingly. The \u201cOFF\u201d position of the master switch must also be clearly marked."
+                                    "rule_text": "The \"ON\" position of the switch must be in the horizontal position and must be marked accordingly. The \"OFF\" position of the master switch must also be clearly marked."
                                 },
                                 {
                                     "rule_shortname": "T11.2.4",
@@ -2407,7 +2408,7 @@
                                 },
                                 {
                                     "rule_shortname": "T11.3.3",
-                                    "rule_text": "The LVMS must be marked with \u201cLV\u201d and a symbol showing a red spark in a white edged blue triangle."
+                                    "rule_text": "The LVMS must be marked with \"LV\" and a symbol showing a red spark in a white edged blue triangle."
                                 }
                             ]
                         },
@@ -2425,7 +2426,7 @@
                                 },
                                 {
                                     "rule_shortname": "T11.4.3",
-                                    "rule_text": "One button must be located on each side of the vehicle behind the driver\u2019s compartment at approximately the level of the driver\u2019s head. The minimum allowed diameter of the shutdown buttons on both sides of the vehicle is 40 mm.The buttons must be easy reachable from outside the vehicle."
+                                    "rule_text": "One button must be located on each side of the vehicle behind the driver's compartment at approximately the level of the driver's head. The minimum allowed diameter of the shutdown buttons on both sides of the vehicle is 40 mm.The buttons must be easy reachable from outside the vehicle."
                                 },
                                 {
                                     "rule_shortname": "T11.4.4",
@@ -2451,7 +2452,7 @@
                                 },
                                 {
                                     "rule_shortname": "T11.5.2",
-                                    "rule_text": "The device must trigger due to an omnidirectional peak acceleration of \u22648 g for a half sine test pulse of \u226550 ms length and \u226413 g for a half sine test pulse of \u226520 ms length. The \u201cSensata Resettable Crash Sensor\u201d should meet those requirements."
+                                    "rule_text": "The device must trigger due to an omnidirectional peak acceleration of \u22648 g for a half sine test pulse of \u226550 ms length and \u226413 g for a half sine test pulse of \u226520 ms length. The \"Sensata Resettable Crash Sensor\" should meet those requirements."
                                 },
                                 {
                                     "rule_shortname": "T11.5.3",
@@ -2539,7 +2540,7 @@
                                 },
                                 {
                                     "rule_shortname": "T11.7.7",
-                                    "rule_text": "Battery packs based on lithium chemistry other than lithium iron phosphate (LiFePO4): \u2022 Must have a fire retardant casing, see T1.2.1. \u2022 Must include overcurrent protection that trips at or below the maximum specified discharge current of the cells. \u2022 Must include overtemperature protection of at least 30 % of the cells, meeting EV5.8.4, that trips when any cell leaves the allowed temperature range according to the manu- facturer\u2019s datasheet, but not more than 60 \u00b0C, for more than 1 s and disconnects the battery. \u2022 Must include voltage protection of all cells that trips when any cell leaves the allowed voltage range according to the manufacturer\u2019s datasheet for more than 500 ms and disconnects the battery. \u2022 It must be possible to display all cell voltages and measured temperatures, e.g. by connecting a laptop. \u2022 Must meet EV5.8.11 \u2022 Signals needed to fulfill these requirements are SCS, see T11.9."
+                                    "rule_text": "Battery packs based on lithium chemistry other than lithium iron phosphate (LiFePO4): \u2022 Must have a fire retardant casing, see T1.2.1. \u2022 Must include overcurrent protection that trips at or below the maximum specified discharge current of the cells. \u2022 Must include overtemperature protection of at least 30 % of the cells, meeting EV5.8.4, that trips when any cell leaves the allowed temperature range according to the manu- facturer's datasheet, but not more than 60 \u00b0C, for more than 1 s and disconnects the battery. \u2022 Must include voltage protection of all cells that trips when any cell leaves the allowed voltage range according to the manufacturer's datasheet for more than 500 ms and disconnects the battery. \u2022 It must be possible to display all cell voltages and measured temperatures, e.g. by connecting a laptop. \u2022 Must meet EV5.8.11 \u2022 Signals needed to fulfill these requirements are SCS, see T11.9."
                                 }
                             ]
                         },
@@ -2615,11 +2616,11 @@
                                 },
                                 {
                                     "rule_shortname": "T11.9.4",
-                                    "rule_text": "Safe state is defined depending on the signals as follows: \u2022 signals only influencing indicators \u2013 Indicating a failure of its own function or of the connected system \u2022 low voltage battery signals \u2013 At least one pole is electrically disconnected from the rest of the vehicle \u2022 [EV ONLY] For all others signals \u2013 opened shutdown circuit and opened AIRs \u2022 [CV ONLY] For all others signals \u2013 opened shutdown circuit and stopped engine"
+                                    "rule_text": "Safe state is defined depending on the signals as follows: \u2022 signals only influencing indicators - Indicating a failure of its own function or of the connected system \u2022 low voltage battery signals - At least one pole is electrically disconnected from the rest of the vehicle \u2022 [EV ONLY] For all others signals - opened shutdown circuit and opened AIRs \u2022 [CV ONLY] For all others signals - opened shutdown circuit and stopped engine"
                                 },
                                 {
                                     "rule_shortname": "T11.9.5",
-                                    "rule_text": "Indicators according to T11.9.1 with safe state \u201cilluminated\u201d (e.g. absence of failures is not actively indicated) must be illuminated for 1 s to 3 s for visible check after power cycling the LVMS."
+                                    "rule_text": "Indicators according to T11.9.1 with safe state \"illuminated\" (e.g. absence of failures is not actively indicated) must be illuminated for 1 s to 3 s for visible check after power cycling the LVMS."
                                 }
                             ]
                         },
@@ -2633,7 +2634,7 @@
                                 },
                                 {
                                     "rule_shortname": "T11.10.2",
-                                    "rule_text": "Sensors and components may not come into contact with the driver\u2019s helmet under any circumstances."
+                                    "rule_text": "Sensors and components may not come into contact with the driver's helmet under any circumstances."
                                 },
                                 {
                                     "rule_shortname": "T11.10.3",
@@ -2783,7 +2784,7 @@
                                 },
                                 {
                                     "rule_shortname": "T13.3.3",
-                                    "rule_text": "A balaclava which covers the driver\u2019s head, hair and neck, made from acceptable fire resistant material as defined in T13.3.11, or a full helmet skirt of acceptable fire resistant material."
+                                    "rule_text": "A balaclava which covers the driver's head, hair and neck, made from acceptable fire resistant material as defined in T13.3.11, or a full helmet skirt of acceptable fire resistant material."
                                 },
                                 {
                                     "rule_shortname": "T13.3.4",
@@ -2791,11 +2792,11 @@
                                 },
                                 {
                                     "rule_shortname": "T13.3.5",
-                                    "rule_text": "Fire resistant underwear (long pants and long sleeve t-shirt). This fire resistant underwear must be made from acceptable fire resistant material as listed in T13.3.11 and must cover the driver\u2019s body completely from neck down to ankles and wrists."
+                                    "rule_text": "Fire resistant underwear (long pants and long sleeve t-shirt). This fire resistant underwear must be made from acceptable fire resistant material as listed in T13.3.11 and must cover the driver's body completely from neck down to ankles and wrists."
                                 },
                                 {
                                     "rule_shortname": "T13.3.6",
-                                    "rule_text": "Fire resistant socks made from acceptable fire resistant material as defined in T13.3.11, that cover the bare skin between the driver\u2019s suit and the boots or shoes."
+                                    "rule_text": "Fire resistant socks made from acceptable fire resistant material as defined in T13.3.11, that cover the bare skin between the driver's suit and the boots or shoes."
                                 },
                                 {
                                     "rule_shortname": "T13.3.7",
@@ -2807,11 +2808,11 @@
                                 },
                                 {
                                     "rule_shortname": "T13.3.9",
-                                    "rule_text": "Arm restraints are required and must be worn such that the driver can release them and exit the vehicle unassisted regardless of the vehicle\u2019s position. Arm restraints must be commercially manufactured according to SFI Standard 3.3 or equivalent."
+                                    "rule_text": "Arm restraints are required and must be worn such that the driver can release them and exit the vehicle unassisted regardless of the vehicle's position. Arm restraints must be commercially manufactured according to SFI Standard 3.3 or equivalent."
                                 },
                                 {
                                     "rule_shortname": "T13.3.10",
-                                    "rule_text": "All driver equipment covered in T13.3: must be in good condition. Specifically, it must not have any tears, rips, open seams, areas of significant wear or abrasion or stains which might compromise fire resistant performance. Teams must be able to show that the clothing still meets the requirements of T13.3 if driver\u2019s clothing is embroidered. The officials reserve the right to impound all non-approved driver equipment until the end of the competition."
+                                    "rule_text": "All driver equipment covered in T13.3: must be in good condition. Specifically, it must not have any tears, rips, open seams, areas of significant wear or abrasion or stains which might compromise fire resistant performance. Teams must be able to show that the clothing still meets the requirements of T13.3 if driver's clothing is embroidered. The officials reserve the right to impound all non-approved driver equipment until the end of the competition."
                                 },
                                 {
                                     "rule_shortname": "T13.3.11",
@@ -2845,7 +2846,7 @@
                                 },
                                 {
                                     "rule_shortname": "T13.4.5",
-                                    "rule_text": "Except for the initial inspection, one extinguisher must readily be available in the team\u2019s paddock area, and the second must accompany the vehicle wherever the vehicle is moved. Both extinguishers must be presented with the vehicle at technical inspection."
+                                    "rule_text": "Except for the initial inspection, one extinguisher must readily be available in the team's paddock area, and the second must accompany the vehicle wherever the vehicle is moved. Both extinguishers must be presented with the vehicle at technical inspection."
                                 },
                                 {
                                     "rule_shortname": "T13.4.6",
@@ -2869,7 +2870,7 @@
                                 },
                                 {
                                     "rule_shortname": "T14.1.2",
-                                    "rule_text": "[CV ONLY] The following definitions apply to maintain the same wording as for Electric Vehicles: \u2022 Ready-to-drive (R2D) \u2013 Engine is running and a gear is engaged. \u2022 TS active \u2013 Engine is running but gearbox is in neutral (also assumed for TS not active). \u2022 TS activation button \u2013 The engine start button is the equivalent. \u2022 Accumulator Isolation Relay (AIR) - The fuel pump relay (see Figure 21) is the equivalent."
+                                    "rule_text": "[CV ONLY] The following definitions apply to maintain the same wording as for Electric Vehicles: \u2022 Ready-to-drive (R2D) - Engine is running and a gear is engaged. \u2022 TS active - Engine is running but gearbox is in neutral (also assumed for TS not active). \u2022 TS activation button - The engine start button is the equivalent. \u2022 Accumulator Isolation Relay (AIR) - The fuel pump relay (see Figure 21) is the equivalent."
                                 }
                             ]
                         },
@@ -2905,11 +2906,11 @@
                                 },
                                 {
                                     "rule_shortname": "T14.4.",
-                                    "rule_text": "\u2022 When the \u201cGo\u201d button is pressed, the preselected autonomous mission is started."
+                                    "rule_text": "\u2022 When the \"Go\" button is pressed, the preselected autonomous mission is started."
                                 },
                                 {
                                     "rule_shortname": "T14.3.4",
-                                    "rule_text": "The RES vehicle module must be directly integrated in the vehicle\u2019s SDC with one of its relays hard-wired in series to the shutdown buttons."
+                                    "rule_text": "The RES vehicle module must be directly integrated in the vehicle's SDC with one of its relays hard-wired in series to the shutdown buttons."
                                 },
                                 {
                                     "rule_shortname": "T14.3.5",
@@ -2955,7 +2956,7 @@
                                 },
                                 {
                                     "rule_shortname": "T14.6.3",
-                                    "rule_text": "The ASMS must be marked with \u201cAS\u201d."
+                                    "rule_text": "The ASMS must be marked with \"AS\"."
                                 },
                                 {
                                     "rule_shortname": "T14.6.4",
@@ -2963,19 +2964,19 @@
                                 },
                                 {
                                     "rule_shortname": "T14.6.5",
-                                    "rule_text": "When the ASMS is in \u201cOff\u201d position, the following must be fulfilled: \u2022 No steering, braking and propulsion actuation can be performed by request of the autonomous system. \u2022 The sensors and the processing units can stay operational. \u2022 The vehicle must be able to be pushed as specified in A6.7. \u2022 It must be possible to operate the vehicle manually as a normal CV or EV."
+                                    "rule_text": "When the ASMS is in \"Off\" position, the following must be fulfilled: \u2022 No steering, braking and propulsion actuation can be performed by request of the autonomous system. \u2022 The sensors and the processing units can stay operational. \u2022 The vehicle must be able to be pushed as specified in A6.7. \u2022 It must be possible to operate the vehicle manually as a normal CV or EV."
                                 },
                                 {
                                     "rule_shortname": "T14.6.6",
-                                    "rule_text": "It is strictly forbidden to switch the ASMS to the \u201cOn\u201d position if a person is inside the vehicle."
+                                    "rule_text": "It is strictly forbidden to switch the ASMS to the \"On\" position if a person is inside the vehicle."
                                 },
                                 {
                                     "rule_shortname": "T14.6.7",
-                                    "rule_text": "After switching the ASMS to the \u201cOn\u201d position, the vehicle may not start moving, until R2D is entered (Figure 17)."
+                                    "rule_text": "After switching the ASMS to the \"On\" position, the vehicle may not start moving, until R2D is entered (Figure 17)."
                                 },
                                 {
                                     "rule_shortname": "T14.6.8",
-                                    "rule_text": "The ASMS must be fitted with a \u201clockout/tagout\u201d capability to prevent accidental activation of the AS. The ASR must ensure that the ASMS is locked in the off position whenever the vehicle is outside the dynamic area or driven in manual mode."
+                                    "rule_text": "The ASMS must be fitted with a \"lockout/tagout\" capability to prevent accidental activation of the AS. The ASR must ensure that the ASMS is locked in the off position whenever the vehicle is outside the dynamic area or driven in manual mode."
                                 }
                             ]
                         },
@@ -2993,7 +2994,7 @@
                                 },
                                 {
                                     "rule_shortname": "T14.7.3",
-                                    "rule_text": "Manual steering must be possible without manual release steps (e.g. operating manual valves / (dis-) connecting mechanical elements) while the ASMS is switched \u201cOff\u201d."
+                                    "rule_text": "Manual steering must be possible without manual release steps (e.g. operating manual valves / (dis-) connecting mechanical elements) while the ASMS is switched \"Off\"."
                                 }
                             ]
                         },
@@ -3017,7 +3018,7 @@
                             "rules": [
                                 {
                                     "rule_shortname": "T14.9.1",
-                                    "rule_text": "The Emergency Brake System (EBS) is considered to be \u201cactivated\u201d, if the power supply path defined in T15.2.2 is cut after passing the initial checkup sequence (T15.3.1). Brakes may only be released after performing manual steps."
+                                    "rule_text": "The Emergency Brake System (EBS) is considered to be \"activated\", if the power supply path defined in T15.2.2 is cut after passing the initial checkup sequence (T15.3.1). Brakes may only be released after performing manual steps."
                                 },
                                 {
                                     "rule_shortname": "T14.9.2",
@@ -3025,11 +3026,11 @@
                                 },
                                 {
                                     "rule_shortname": "T14.9.3",
-                                    "rule_text": "R2D may only be activated by the \u201cGo\u201d signal from the RES, after the system has remained in \u201cAS Ready\u201d for at least 5 s."
+                                    "rule_text": "R2D may only be activated by the \"Go\" signal from the RES, after the system has remained in \"AS Ready\" for at least 5 s."
                                 },
                                 {
                                     "rule_shortname": "T14.9.4",
-                                    "rule_text": "Performing manual steps, other than activating the TS, at the vehicle while the ASMS is switched \u201cOn\u201d is prohibited."
+                                    "rule_text": "Performing manual steps, other than activating the TS, at the vehicle while the ASMS is switched \"On\" is prohibited."
                                 }
                             ]
                         },
@@ -3043,7 +3044,7 @@
                                 },
                                 {
                                     "rule_shortname": "T14.10.2",
-                                    "rule_text": "One ASSI must be located on each side of the vehicle behind the driver\u2019s compartment, in a region 160 mm below the top of the main hoop and 600 mm above the ground. The third ASSI must be located at the rear of the vehicle, on the vehicle centerline, in a region 160 mm below the top of the main hoop and 100 mm above the brake light."
+                                    "rule_text": "One ASSI must be located on each side of the vehicle behind the driver's compartment, in a region 160 mm below the top of the main hoop and 600 mm above the ground. The third ASSI must be located at the rear of the vehicle, on the vehicle centerline, in a region 160 mm below the top of the main hoop and 100 mm above the brake light."
                                 },
                                 {
                                     "rule_shortname": "T14.10.3",
@@ -3051,7 +3052,7 @@
                                 },
                                 {
                                     "rule_shortname": "T14.10.4",
-                                    "rule_text": "The status \u201cAS Emergency\u201d has to be indicated by an intermittent sound with the following parameters: \u2022 on-/off-frequency: 1 Hz to 5 Hz \u2022 duty cycle 50 % \u2022 sound level between 80 dBA and 90 dBA, fast weighting in a radius of 2 m around the vehicle. \u2022 duration between 8 s and 10 s after entering \u201cAS Emergency\u201d"
+                                    "rule_text": "The status \"AS Emergency\" has to be indicated by an intermittent sound with the following parameters: \u2022 on-/off-frequency: 1 Hz to 5 Hz \u2022 duty cycle 50 % \u2022 sound level between 80 dBA and 90 dBA, fast weighting in a radius of 2 m around the vehicle. \u2022 duration between 8 s and 10 s after entering \"AS Emergency\""
                                 }
                             ]
                         },
@@ -3065,7 +3066,7 @@
                                 },
                                 {
                                     "rule_shortname": "T14.11.2",
-                                    "rule_text": "The inspection mission is defined by slowly spinning the drivetrain and actuating the steering system with a sine wave while the vehicle is jacked up and all wheels are removed. After 25 s to 30 s the AS must transition to \u201cAS Finished\u201d."
+                                    "rule_text": "The inspection mission is defined by slowly spinning the drivetrain and actuating the steering system with a sine wave while the vehicle is jacked up and all wheels are removed. After 25 s to 30 s the AS must transition to \"AS Finished\"."
                                 },
                                 {
                                     "rule_shortname": "T14.11.3",
@@ -3127,7 +3128,7 @@
                                 },
                                 {
                                     "rule_shortname": "T15.1.8",
-                                    "rule_text": "All deactivation points of the ASB must: \u2022 work without the aid of electrical power \u2022 be in proximity to each other \u2022 either be mounted in proximity to the ASMS or on the top side of the vehicle between front bulkhead and front hoop close to the vehicles center line \u2022 be operable by maximum two simple push/pull and/or turning actions, the order and direction of these actions must be shown next to the deactivation points. \u2022 be marked with \u201cBrake release\u201d \u2022 have a red handle"
+                                    "rule_text": "All deactivation points of the ASB must: \u2022 work without the aid of electrical power \u2022 be in proximity to each other \u2022 either be mounted in proximity to the ASMS or on the top side of the vehicle between front bulkhead and front hoop close to the vehicles center line \u2022 be operable by maximum two simple push/pull and/or turning actions, the order and direction of these actions must be shown next to the deactivation points. \u2022 be marked with \"Brake release\" \u2022 have a red handle"
                                 },
                                 {
                                     "rule_shortname": "T15.1.9",
@@ -3155,7 +3156,7 @@
                             "rules": [
                                 {
                                     "rule_shortname": "T15.3.1",
-                                    "rule_text": "An initial check has to be performed to ensure that ASB is able to build up brake pressure as expected, before AS transitions to \u201cAS Ready\u201d."
+                                    "rule_text": "An initial check has to be performed to ensure that ASB is able to build up brake pressure as expected, before AS transitions to \"AS Ready\"."
                                 },
                                 {
                                     "rule_shortname": "T15.3.2",
@@ -3233,7 +3234,7 @@
                                 },
                                 {
                                     "rule_shortname": "CV1.2.3",
-                                    "rule_text": "If CV1.2.2 requires an additional engine start button, there must be a green light next to it, that indicates that the gearbox is in neutral. It must be marked with the letter \u201cN\u201d. This letter must have a minimum height of 25 mm."
+                                    "rule_text": "If CV1.2.2 requires an additional engine start button, there must be a green light next to it, that indicates that the gearbox is in neutral. It must be marked with the letter \"N\". This letter must have a minimum height of 25 mm."
                                 },
                                 {
                                     "rule_shortname": "CV1.2.4",
@@ -3311,7 +3312,7 @@
                                 },
                                 {
                                     "rule_shortname": "CV1.5.6",
-                                    "rule_text": "Throttle cables or rods must have smooth operation and must not have the possibility of binding or sticking. They must be protected from being bent or kinked by the driver\u2019s foot during operation or when entering the vehicle."
+                                    "rule_text": "Throttle cables or rods must have smooth operation and must not have the possibility of binding or sticking. They must be protected from being bent or kinked by the driver's foot during operation or when entering the vehicle."
                                 },
                                 {
                                     "rule_shortname": "CV1.5.7",
@@ -3397,7 +3398,7 @@
                                 },
                                 {
                                     "rule_shortname": "CV1.8.3",
-                                    "rule_text": "Plenums anywhere upstream of the throttle body are prohibited. A \u201cplenum\u201d is any tank or volume that is a significant enlargement of the normal intake runner system."
+                                    "rule_text": "Plenums anywhere upstream of the throttle body are prohibited. A \"plenum\" is any tank or volume that is a significant enlargement of the normal intake runner system."
                                 },
                                 {
                                     "rule_shortname": "CV1.8.4",
@@ -3621,7 +3622,7 @@
                                 },
                                 {
                                     "rule_shortname": "CV3.1.4",
-                                    "rule_text": "The application of fibrous/absorbent material, e.g. \u201cheaderwrap\u201d, to the outside of an exhaust manifold or exhaust system is prohibited."
+                                    "rule_text": "The application of fibrous/absorbent material, e.g. \"headerwrap\", to the outside of an exhaust manifold or exhaust system is prohibited."
                                 }
                             ]
                         },
@@ -3681,11 +3682,11 @@
                             "rules": [
                                 {
                                     "rule_shortname": "EV1.1.1",
-                                    "rule_text": "Tractive System (TS) \u2013 every part that is electrically connected to the motor(s) and TS accumulators."
+                                    "rule_text": "Tractive System (TS) - every part that is electrically connected to the motor(s) and TS accumulators."
                                 },
                                 {
                                     "rule_shortname": "EV1.1.2",
-                                    "rule_text": "TS enclosures \u2013 every housing or enclosure containing parts of the TS."
+                                    "rule_text": "TS enclosures - every housing or enclosure containing parts of the TS."
                                 }
                             ]
                         },
@@ -3695,7 +3696,7 @@
                             "rules": [
                                 {
                                     "rule_shortname": "EV1.2.1",
-                                    "rule_text": "Galvanic Isolation \u2013 two electric circuits are defined as galvanically isolated if all of the following are true: \u2022 the resistance between both circuits is \u2265500 \u2126/V, related to the maximum TS voltage of the vehicle, at a test voltage of maximum TS voltage or 250 V, whichever is higher. \u2022 the isolation voltage RMS, AC for 1 min, between both circuits is higher than three times the maximum TS voltage or 750 V, whichever is higher."
+                                    "rule_text": "Galvanic Isolation - two electric circuits are defined as galvanically isolated if all of the following are true: \u2022 the resistance between both circuits is \u2265500 \u2126/V, related to the maximum TS voltage of the vehicle, at a test voltage of maximum TS voltage or 250 V, whichever is higher. \u2022 the isolation voltage RMS, AC for 1 min, between both circuits is higher than three times the maximum TS voltage or 750 V, whichever is higher."
                                 }
                             ]
                         }
@@ -3855,7 +3856,7 @@
                             "rules": [
                                 {
                                     "rule_shortname": "EV4.2.1",
-                                    "rule_text": "TS enclosures, see EV1.1.2, must be labeled with (a) reasonably sized sticker(s) according to \u201cISO 7010-W012\u201d (triangle with a black lightning bolt on yellow background). The sticker must also contain the text \u201cHigh Voltage\u201d if the voltage is more than 60 VDC or 50 VACRMS."
+                                    "rule_text": "TS enclosures, see EV1.1.2, must be labeled with (a) reasonably sized sticker(s) according to \"ISO 7010-W012\" (triangle with a black lightning bolt on yellow background). The sticker must also contain the text \"High Voltage\" if the voltage is more than 60 VDC or 50 VACRMS."
                                 }
                             ]
                         },
@@ -3885,7 +3886,7 @@
                                 },
                                 {
                                     "rule_shortname": "EV4.3.6",
-                                    "rule_text": "If TS and LVS are on the same PCB, they must be on separate well-defined areas of the board, meeting the spacing requirements in table 5, each area clearly marked with \u201cTS\u201d or \u201cLV\u201d. The outline of the area required for spacing must be marked.{{Table 5}} \u201cConformal coating\u201d is referring to a coating insulator, solder resist is not a coating. If integrated circuits are used such as optocouplers which are rated for the respective maximum TS voltage, see EV1.2.1, but do not fulfill the required spacing, then they may still be used and the given spacing does not apply to this integrated circuit."
+                                    "rule_text": "If TS and LVS are on the same PCB, they must be on separate well-defined areas of the board, meeting the spacing requirements in table 5, each area clearly marked with \"TS\" or \"LV\". The outline of the area required for spacing must be marked.{{Table 5}} \"Conformal coating\" is referring to a coating insulator, solder resist is not a coating. If integrated circuits are used such as optocouplers which are rated for the respective maximum TS voltage, see EV1.2.1, but do not fulfill the required spacing, then they may still be used and the given spacing does not apply to this integrated circuit."
                                 },
                                 {
                                     "rule_shortname": "EV4.3.7",
@@ -3899,7 +3900,7 @@
                             "rules": [
                                 {
                                     "rule_shortname": "EV4.4.1",
-                                    "rule_text": "With the exception of what is permitted according to EV4.4.3, all parts belonging to the TS including cables and wiring must be located within the rollover protection envelope, see T1.1.15. \u201cPart\u201d is the whole device such as the complete HVD."
+                                    "rule_text": "With the exception of what is permitted according to EV4.4.3, all parts belonging to the TS including cables and wiring must be located within the rollover protection envelope, see T1.1.15. \"Part\" is the whole device such as the complete HVD."
                                 },
                                 {
                                     "rule_shortname": "EV4.4.2",
@@ -3977,7 +3978,7 @@
                                 },
                                 {
                                     "rule_shortname": "EV4.5.14",
-                                    "rule_text": "All electrical connections, including bolts, nuts, and other fasteners, in the high current path of the TS must be secured from unintentional loosening by the use of positive locking mechanisms that are suitable for high temperatures, see T10.2. Components, e.g. inverters, certified for automotive use might be allowed without posi- tive locking feature, if connections are completed as recommended by the manufacturers\u2019 datasheet and no positive locking is possible."
+                                    "rule_text": "All electrical connections, including bolts, nuts, and other fasteners, in the high current path of the TS must be secured from unintentional loosening by the use of positive locking mechanisms that are suitable for high temperatures, see T10.2. Components, e.g. inverters, certified for automotive use might be allowed without posi- tive locking feature, if connections are completed as recommended by the manufacturers' datasheet and no positive locking is possible."
                                 },
                                 {
                                     "rule_shortname": "EV4.5.15",
@@ -4041,7 +4042,7 @@
                                 },
                                 {
                                     "rule_shortname": "EV4.7.4",
-                                    "rule_text": "The TSMPs must be marked \u201cTS+\u201d and \u201cTS-\u201d and exclusively mounted on orange back- ground."
+                                    "rule_text": "The TSMPs must be marked \"TS+\" and \"TS-\" and exclusively mounted on orange back- ground."
                                 },
                                 {
                                     "rule_shortname": "EV4.7.5",
@@ -4049,7 +4050,7 @@
                                 },
                                 {
                                     "rule_shortname": "EV4.7.6",
-                                    "rule_text": "Each TSMP must be secured with a current limiting resistor according to the following table. Fusing the TSMPs is prohibited. The resistor\u2019s power rating must be chosen such that they are able to continuously carry the current if both TSMPs are short-circuited.{{Table N3}}"
+                                    "rule_text": "Each TSMP must be secured with a current limiting resistor according to the following table. Fusing the TSMPs is prohibited. The resistor's power rating must be chosen such that they are able to continuously carry the current if both TSMPs are short-circuited.{{Table N3}}"
                                 },
                                 {
                                     "rule_shortname": "EV4.7.7",
@@ -4057,7 +4058,7 @@
                                 },
                                 {
                                     "rule_shortname": "EV4.7.8",
-                                    "rule_text": "Next to the TSMPs an LVS ground measuring point must be installed. A 4 mm black shrouded banana jack must be connected to LVS ground and must be marked \u201cGND\u201d."
+                                    "rule_text": "Next to the TSMPs an LVS ground measuring point must be installed. A 4 mm black shrouded banana jack must be connected to LVS ground and must be marked \"GND\"."
                                 }
                             ]
                         },
@@ -4075,11 +4076,11 @@
                                 },
                                 {
                                     "rule_shortname": "EV4.8.3",
-                                    "rule_text": "A dummy connector or similar may be required to restore the system\u2019s isolation, see EV4.5. The dummy connector must be attached to the push bar, see T13.1, if not in use."
+                                    "rule_text": "A dummy connector or similar may be required to restore the system's isolation, see EV4.5. The dummy connector must be attached to the push bar, see T13.1, if not in use."
                                 },
                                 {
                                     "rule_shortname": "EV4.8.4",
-                                    "rule_text": "The HVD must be clearly marked with \u201cHVD\u201d."
+                                    "rule_text": "The HVD must be clearly marked with \"HVD\"."
                                 },
                                 {
                                     "rule_shortname": "EV4.8.5",
@@ -4135,7 +4136,7 @@
                                 },
                                 {
                                     "rule_shortname": "EV4.10.7",
-                                    "rule_text": "The TSAL must: \u2022 Be located lower than the highest point of the main hoop and including the mounting within the rollover protection envelope, see T1.1.15. \u2022 Be no lower than 75 mm from the highest point of the main hoop. \u2022 Not be able to contact the driver\u2019s helmet in any circumstances."
+                                    "rule_text": "The TSAL must: \u2022 Be located lower than the highest point of the main hoop and including the mounting within the rollover protection envelope, see T1.1.15. \u2022 Be no lower than 75 mm from the highest point of the main hoop. \u2022 Not be able to contact the driver's helmet in any circumstances."
                                 },
                                 {
                                     "rule_shortname": "EV4.10.8",
@@ -4143,7 +4144,7 @@
                                 },
                                 {
                                     "rule_shortname": "EV4.10.9",
-                                    "rule_text": "The TSAL and all needed circuitry must be hard-wired electronics. Software control is not permitted. EV4.10.10 A green indicator light in the cockpit that is easily visible even in bright sunlight and clearly marked with \u201cTS off\u201d must light up if TSAL green light is on, see EV4.10.3. EV4.10.11 Signals influencing the TSAL and the indicator according to EV4.10.10 are SCS, see T11.9. The individual safe state of each of the TSAL lights is off. The TSAL has an active indication of the absence of failures (continuous green illumination) and thus the red light must not be illuminated for a visible check, see T11.9.5. EV4.10.12 The TSAL\u2019s red light voltage detection circuit, see EV4.10.2, does not need to detect an open circuit, as required by T11.9, when no voltage is present. A plausibility check must not be implemented. EV4.10.13 The TSAL\u2019s green light relay state detection circuit, see EV4.10.3, does not need to detect an open circuit, as required by T11.9, when the intentional state of the used (auxiliary) contact is opened. A plausibility check against the intentional relay state must be implemented in a way that the TSAL\u2019s green light stays off after the open circuit is detectable. EV4.10.14 The TSAL\u2019s green light voltage detection circuit, see EV4.10.3, does not need to detect an open circuit, as required by T11.9, when no voltage is present. A plausibility check against the intentional relay states must be implemented in a way that the TSAL\u2019s green light stays off after the open circuit of the accumulator voltage detection circuit is detectable. EV4.10.15 The latching required by EV4.10.13 and EV4.10.14 must not be triggered during normal operation conditions and must only be reset by power cycling the LVS."
+                                    "rule_text": "The TSAL and all needed circuitry must be hard-wired electronics. Software control is not permitted. EV4.10.10 A green indicator light in the cockpit that is easily visible even in bright sunlight and clearly marked with \"TS off\" must light up if TSAL green light is on, see EV4.10.3. EV4.10.11 Signals influencing the TSAL and the indicator according to EV4.10.10 are SCS, see T11.9. The individual safe state of each of the TSAL lights is off. The TSAL has an active indication of the absence of failures (continuous green illumination) and thus the red light must not be illuminated for a visible check, see T11.9.5. EV4.10.12 The TSAL's red light voltage detection circuit, see EV4.10.2, does not need to detect an open circuit, as required by T11.9, when no voltage is present. A plausibility check must not be implemented. EV4.10.13 The TSAL's green light relay state detection circuit, see EV4.10.3, does not need to detect an open circuit, as required by T11.9, when the intentional state of the used (auxiliary) contact is opened. A plausibility check against the intentional relay state must be implemented in a way that the TSAL's green light stays off after the open circuit is detectable. EV4.10.14 The TSAL's green light voltage detection circuit, see EV4.10.3, does not need to detect an open circuit, as required by T11.9, when no voltage is present. A plausibility check against the intentional relay states must be implemented in a way that the TSAL's green light stays off after the open circuit of the accumulator voltage detection circuit is detectable. EV4.10.15 The latching required by EV4.10.13 and EV4.10.14 must not be triggered during normal operation conditions and must only be reset by power cycling the LVS."
                                 }
                             ]
                         },
@@ -4161,7 +4162,7 @@
                                 },
                                 {
                                     "rule_shortname": "EV4.11.3",
-                                    "rule_text": "The ASR must be able to activate the TS from outside the vehicle with an external TS activation button in proximity to the TSMS if and only if the ASMS is in \u201cOn\u201d position."
+                                    "rule_text": "The ASR must be able to activate the TS from outside the vehicle with an external TS activation button in proximity to the TSMS if and only if the ASMS is in \"On\" position."
                                 },
                                 {
                                     "rule_shortname": "EV4.11.4",
@@ -4219,23 +4220,23 @@
                             "rules": [
                                 {
                                     "rule_shortname": "EV5.1.1",
-                                    "rule_text": "Cell \u2013 a battery cell or super-capacitor."
+                                    "rule_text": "Cell - a battery cell or super-capacitor."
                                 },
                                 {
                                     "rule_shortname": "EV5.1.2",
-                                    "rule_text": "Cell Energy \u2013 the maximum cell voltage times the nominal capacity of the used cell."
+                                    "rule_text": "Cell Energy - the maximum cell voltage times the nominal capacity of the used cell."
                                 },
                                 {
                                     "rule_shortname": "EV5.1.3",
-                                    "rule_text": "TS Accumulator \u2013 all cells that store the electrical energy to be used by the TS as a whole."
+                                    "rule_text": "TS Accumulator - all cells that store the electrical energy to be used by the TS as a whole."
                                 },
                                 {
                                     "rule_shortname": "EV5.1.4",
-                                    "rule_text": "Tractive System Accumulator Container (TSAC) \u2013 the container itself, which contains the TS accumulator."
+                                    "rule_text": "Tractive System Accumulator Container (TSAC) - the container itself, which contains the TS accumulator."
                                 },
                                 {
                                     "rule_shortname": "EV5.1.5",
-                                    "rule_text": "TS Accumulator Segments \u2013 sub-divisions of the TS accumulator."
+                                    "rule_text": "TS Accumulator Segments - sub-divisions of the TS accumulator."
                                 }
                             ]
                         },
@@ -4255,7 +4256,7 @@
                         },
                         {
                             "chapter_shortname": "EV5.3",
-                            "chapter_name": "Tractive System Energy Storage \u2013 General Requirements",
+                            "chapter_name": "Tractive System Energy Storage - General Requirements",
                             "rules": [
                                 {
                                     "rule_shortname": "EV5.3.1",
@@ -4283,7 +4284,7 @@
                                 },
                                 {
                                     "rule_shortname": "EV5.3.7",
-                                    "rule_text": "Each TSAC must be removable from the vehicle while still remaining rules compliant without the need to install extra components. A dummy connector or similar may be used to restore the system\u2019s isolation, see EV4.5."
+                                    "rule_text": "Each TSAC must be removable from the vehicle while still remaining rules compliant without the need to install extra components. A dummy connector or similar may be used to restore the system's isolation, see EV4.5."
                                 },
                                 {
                                     "rule_shortname": "EV5.3.8",
@@ -4293,7 +4294,7 @@
                         },
                         {
                             "chapter_shortname": "EV5.4",
-                            "chapter_name": "Tractive System Energy Storage \u2013 Electrical Configuration",
+                            "chapter_name": "Tractive System Energy Storage - Electrical Configuration",
                             "rules": [
                                 {
                                     "rule_shortname": "EV5.4.1",
@@ -4329,7 +4330,7 @@
                                 },
                                 {
                                     "rule_shortname": "EV5.4.9",
-                                    "rule_text": "The indicator must be clearly visible while disconnecting the TSAC from the vehicles. The indicator must be clearly marked with \u201cVoltage Indicator\u201d"
+                                    "rule_text": "The indicator must be clearly visible while disconnecting the TSAC from the vehicles. The indicator must be clearly marked with \"Voltage Indicator\""
                                 },
                                 {
                                     "rule_shortname": "EV5.4.10",
@@ -4339,7 +4340,7 @@
                         },
                         {
                             "chapter_shortname": "EV5.5",
-                            "chapter_name": "Tractive System Energy Storage \u2013 Mechanical Configuration",
+                            "chapter_name": "Tractive System Energy Storage - Mechanical Configuration",
                             "rules": [
                                 {
                                     "rule_shortname": "EV5.5.1",
@@ -4399,7 +4400,7 @@
                                 },
                                 {
                                     "rule_shortname": "EV5.5.15",
-                                    "rule_text": "A sticker according to \u201cISO 7010-W012\u201d (triangle with a black lightning bolt on yellow background) with the triangle side length of at least 100 mm and the text \u201cAlways Energized\u201d must be applied on every TSAC. The sticker must also contain the text \u201cHigh Voltage\u201d if the voltage is more than 60 VDC or 50 VACRMS."
+                                    "rule_text": "A sticker according to \"ISO 7010-W012\" (triangle with a black lightning bolt on yellow background) with the triangle side length of at least 100 mm and the text \"Always Energized\" must be applied on every TSAC. The sticker must also contain the text \"High Voltage\" if the voltage is more than 60 VDC or 50 VACRMS."
                                 },
                                 {
                                     "rule_shortname": "EV5.5.16",
@@ -4429,7 +4430,7 @@
                                 },
                                 {
                                     "rule_shortname": "EV5.6.3",
-                                    "rule_text": "The AIRs must be mechanical relays of a \u201cnormally open\u201d type. Solid-state relays are prohibited."
+                                    "rule_text": "The AIRs must be mechanical relays of a \"normally open\" type. Solid-state relays are prohibited."
                                 },
                                 {
                                     "rule_shortname": "EV5.6.4",
@@ -4481,7 +4482,7 @@
                                 },
                                 {
                                     "rule_shortname": "EV5.8.7",
-                                    "rule_text": "The AMS must switch off the TS via the shutdown circuit, if critical voltage, temperature, or current values according to the cell manufacturer\u2019s datasheet or these rules persistently occurs for more than: \u2022 500 ms for voltage and current values \u2022 1 s for temperature values The accuracy, noise, and sample rate of the measurement must be taken into account."
+                                    "rule_text": "The AMS must switch off the TS via the shutdown circuit, if critical voltage, temperature, or current values according to the cell manufacturer's datasheet or these rules persistently occurs for more than: \u2022 500 ms for voltage and current values \u2022 1 s for temperature values The accuracy, noise, and sample rate of the measurement must be taken into account."
                                 },
                                 {
                                     "rule_shortname": "EV5.8.8",
@@ -4489,7 +4490,7 @@
                                 },
                                 {
                                     "rule_shortname": "EV5.8.9",
-                                    "rule_text": "A red indicator light in the cockpit that is easily visible from inside and outside the cockpit even in bright sunlight and clearly marked with the lettering \u201cAMS\u201d must light up if and only if the AMS opens the shutdown circuit. It must stay illuminated until the error state has been manually reset, see EV6.1.6. Signals controlling this indicator are SCS, see T11.9."
+                                    "rule_text": "A red indicator light in the cockpit that is easily visible from inside and outside the cockpit even in bright sunlight and clearly marked with the lettering \"AMS\" must light up if and only if the AMS opens the shutdown circuit. It must stay illuminated until the error state has been manually reset, see EV6.1.6. Signals controlling this indicator are SCS, see T11.9."
                                 },
                                 {
                                     "rule_shortname": "EV5.8.10",
@@ -4571,7 +4572,7 @@
                                 },
                                 {
                                     "rule_shortname": "EV6.2.2",
-                                    "rule_text": "The TSMS must be fitted with a \u201clockout/tagout\u201d capability to prevent accidental activation of the TS. The ESO must ensure that it is locked in the off position whenever work is done on the vehicle or no ESO is present."
+                                    "rule_text": "The TSMS must be fitted with a \"lockout/tagout\" capability to prevent accidental activation of the TS. The ESO must ensure that it is locked in the off position whenever work is done on the vehicle or no ESO is present."
                                 },
                                 {
                                     "rule_shortname": "EV6.2.3",
@@ -4579,7 +4580,7 @@
                                 },
                                 {
                                     "rule_shortname": "EV6.2.4",
-                                    "rule_text": "The TSMS must be marked with \u201cTS\u201d and a symbol according to \u201cISO 7010-W012\u201d (triangle with a black lightning bolt on yellow background)."
+                                    "rule_text": "The TSMS must be marked with \"TS\" and a symbol according to \"ISO 7010-W012\" (triangle with a black lightning bolt on yellow background)."
                                 }
                             ]
                         },
@@ -4613,7 +4614,7 @@
                                 },
                                 {
                                     "rule_shortname": "EV6.3.7",
-                                    "rule_text": "A red indicator light in the cockpit that is easily visible from inside and outside the cockpit even in bright sunlight and clearly marked with the lettering \u201cIMD\u201d must light up if and only if the IMD opens the shutdown circuit. It must stay illuminated until the error state has been manually reset, see EV6.1.6. Signals controlling this indicator are SCS, see T11.9."
+                                    "rule_text": "A red indicator light in the cockpit that is easily visible from inside and outside the cockpit even in bright sunlight and clearly marked with the lettering \"IMD\" must light up if and only if the IMD opens the shutdown circuit. It must stay illuminated until the error state has been manually reset, see EV6.1.6. Signals controlling this indicator are SCS, see T11.9."
                                 }
                             ]
                         }
@@ -4811,7 +4812,7 @@
                                 },
                                 {
                                     "rule_shortname": "IN1.2.8",
-                                    "rule_text": "Safety uncritical rule violations without a benefit to the team that cannot be changed at the event may result in at least 20 penalty points for the teams, depending on officials\u2019 decision. Safety uncritical violations with a minor benefit to the team that cannot be changed at the event may result in at least 40 penalty points for the team. The penalty points will be deducted from the team\u2019s overall score."
+                                    "rule_text": "Safety uncritical rule violations without a benefit to the team that cannot be changed at the event may result in at least 20 penalty points for the teams, depending on officials' decision. Safety uncritical violations with a minor benefit to the team that cannot be changed at the event may result in at least 40 penalty points for the team. The penalty points will be deducted from the team's overall score."
                                 },
                                 {
                                     "rule_shortname": "IN1.2.9",
@@ -4849,7 +4850,7 @@
                                 },
                                 {
                                     "rule_shortname": "IN1.3.2",
-                                    "rule_text": "If a vehicle is no longer in compliance with the rules, the officials will set the vehicle\u2019s technical inspection status to fail, remove the respective inspection sticker(s) from the vehicle and note the reason for revoking the technical inspection approval in the technical inspection sheet."
+                                    "rule_text": "If a vehicle is no longer in compliance with the rules, the officials will set the vehicle's technical inspection status to fail, remove the respective inspection sticker(s) from the vehicle and note the reason for revoking the technical inspection approval in the technical inspection sheet."
                                 }
                             ]
                         },
@@ -4877,7 +4878,7 @@
                             "rules": [
                                 {
                                     "rule_shortname": "IN1.5.1",
-                                    "rule_text": "After technical inspection, the only modifications permitted to the vehicle are: \u2022 Adjustment of belts, chains and clutches \u2022 Adjustment of the brake bias \u2022 Adjustment of the driver restraint system, head restraint, seat and pedal assembly \u2022 Substitution of the head restraint or seat insert for different drivers \u2022 Adjustment to engine operating parameters, e.g. fuel mixture and ignition timing \u2022 Adjustment of mirrors \u2022 Adjustment of the suspension where no part substitution, other than springs, sway bars and shims, is required \u2022 Adjustment of tire pressure \u2022 Adjustment of winglet angles, but not the position of the complete aerodynamic device in relation to the vehicle \u2022 Replenishment of fluids \u2022 Replacement of defective tires or brake pads. Replacement tires and brake pads must be identical in material/composition/size to those presented and approved at technical inspection. \u2022 Changing wheels and tires for \u201cwet\u201d or \u201cdamp\u201d conditions as allowed in D3.2 and D7.6 \u2022 Software calibration changes \u2022 Recharging low voltage batteries \u2022 Recharging TS accumulators \u2022 Adjustments of AS sensors \u2022 (De-)Coupling of actuators as allowed in T14.8"
+                                    "rule_text": "After technical inspection, the only modifications permitted to the vehicle are: \u2022 Adjustment of belts, chains and clutches \u2022 Adjustment of the brake bias \u2022 Adjustment of the driver restraint system, head restraint, seat and pedal assembly \u2022 Substitution of the head restraint or seat insert for different drivers \u2022 Adjustment to engine operating parameters, e.g. fuel mixture and ignition timing \u2022 Adjustment of mirrors \u2022 Adjustment of the suspension where no part substitution, other than springs, sway bars and shims, is required \u2022 Adjustment of tire pressure \u2022 Adjustment of winglet angles, but not the position of the complete aerodynamic device in relation to the vehicle \u2022 Replenishment of fluids \u2022 Replacement of defective tires or brake pads. Replacement tires and brake pads must be identical in material/composition/size to those presented and approved at technical inspection. \u2022 Changing wheels and tires for \"wet\" or \"damp\" conditions as allowed in D3.2 and D7.6 \u2022 Software calibration changes \u2022 Recharging low voltage batteries \u2022 Recharging TS accumulators \u2022 Adjustments of AS sensors \u2022 (De-)Coupling of actuators as allowed in T14.8"
                                 }
                             ]
                         }
@@ -4893,7 +4894,7 @@
                             "rules": [
                                 {
                                     "rule_shortname": "IN2.1.1",
-                                    "rule_text": "The following items must be presented for pre-inspection: \u2022 All helmets \u2022 All driver\u2019s equipment and other safety gear \u2022 Two unused and in date fire extinguishers \u2022 One set of four tires on rims for wet conditions \u2022 One set of four tires on rims for dry conditions The tire type/rim type combination presented during pre-inspection must be the same during the whole competition. The rims for dry tires and wet tires may be different."
+                                    "rule_text": "The following items must be presented for pre-inspection: \u2022 All helmets \u2022 All driver's equipment and other safety gear \u2022 Two unused and in date fire extinguishers \u2022 One set of four tires on rims for wet conditions \u2022 One set of four tires on rims for dry conditions The tire type/rim type combination presented during pre-inspection must be the same during the whole competition. The rims for dry tires and wet tires may be different."
                                 }
                             ]
                         }
@@ -4965,7 +4966,7 @@
                             "rules": [
                                 {
                                     "rule_shortname": "IN4.2.1",
-                                    "rule_text": "The following items must be presented at electrical inspection: \u2022 One ESO \u2022 Vehicle with mounted TS accumulator \u2022 Jacks and push bar \u2022 Samples of self designed PCBs that are part of the tractive system and are outside of the TSAC, see EV4.3.7 \u2022 Tools needed for the BSPD check, see T11.6.9 \u2022 Data sheets for all parts used in the tractive system \u2022 Original delivery notes for material without serial number printed on according to T1.2.1 \u2022 Tools needed for the (dis)assembly of parts for electrical inspection \u2022 Print-outs of rule questions (if applicable) \u2022 The connectors needed \u2013 to safely close the SDC while the HVD is removed and \u2013 to safely supply the TS using the same shrouded receptacles as used for TSMP when the TS accumulator is unconnected"
+                                    "rule_text": "The following items must be presented at electrical inspection: \u2022 One ESO \u2022 Vehicle with mounted TS accumulator \u2022 Jacks and push bar \u2022 Samples of self designed PCBs that are part of the tractive system and are outside of the TSAC, see EV4.3.7 \u2022 Tools needed for the BSPD check, see T11.6.9 \u2022 Data sheets for all parts used in the tractive system \u2022 Original delivery notes for material without serial number printed on according to T1.2.1 \u2022 Tools needed for the (dis)assembly of parts for electrical inspection \u2022 Print-outs of rule questions (if applicable) \u2022 The connectors needed - to safely close the SDC while the HVD is removed and - to safely supply the TS using the same shrouded receptacles as used for TSMP when the TS accumulator is unconnected"
                                 }
                             ]
                         }
@@ -4981,7 +4982,7 @@
                             "rules": [
                                 {
                                     "rule_shortname": "IN5.1.1",
-                                    "rule_text": "The following items must be presented at mechanical inspection: \u2022 The vehicle in ready-to-race condition \u2022 Jacks and push bar \u2022 The tallest driver of the team \u2022 Copies of any safety structure equivalency forms \u2022 Copies of any impact attenuator data requirement \u2022 Print-outs of rule questions (if applicable) \u2022 Impact attenuator test piece (except for teams with \u201cstandard\u201d IA) \u2022 Teams with a monocoque: laminate test specimen(s) \u2022 Teams using alloyed steel: test specimen(s) \u2022 Only tools needed for the (dis)assembly of parts for mechanical inspection"
+                                    "rule_text": "The following items must be presented at mechanical inspection: \u2022 The vehicle in ready-to-race condition \u2022 Jacks and push bar \u2022 The tallest driver of the team \u2022 Copies of any safety structure equivalency forms \u2022 Copies of any impact attenuator data requirement \u2022 Print-outs of rule questions (if applicable) \u2022 Impact attenuator test piece (except for teams with \"standard\" IA) \u2022 Teams with a monocoque: laminate test specimen(s) \u2022 Teams using alloyed steel: test specimen(s) \u2022 Only tools needed for the (dis)assembly of parts for mechanical inspection"
                                 }
                             ]
                         }
@@ -5267,7 +5268,7 @@
                             "rules": [
                                 {
                                     "rule_shortname": "S1.1.1",
-                                    "rule_text": "The objective of the BPP is to evaluate the team\u2019s ability to develop and deliver a compre- hensive business model. This business model must refer to the team\u2019s specific prototype race car or a specific component of it. In doing so, the business must offer the car or component as a product or sell a service that relates to it providing a rewarding business opportunity that creates a monetary profit."
+                                    "rule_text": "The objective of the BPP is to evaluate the team's ability to develop and deliver a compre- hensive business model. This business model must refer to the team's specific prototype race car or a specific component of it. In doing so, the business must offer the car or component as a product or sell a service that relates to it providing a rewarding business opportunity that creates a monetary profit."
                                 },
                                 {
                                     "rule_shortname": "S1.1.2",
@@ -5297,7 +5298,7 @@
                                 },
                                 {
                                     "rule_shortname": "S1.2.4",
-                                    "rule_text": "All team members involved in the BPP must be in the podium area and must be introduced to the judges at the beginning of the presentation. The team members who have been introduced may answer the judges\u2019 questions even if they were not actually presenting."
+                                    "rule_text": "All team members involved in the BPP must be in the podium area and must be introduced to the judges at the beginning of the presentation. The team members who have been introduced may answer the judges' questions even if they were not actually presenting."
                                 },
                                 {
                                     "rule_shortname": "S1.2.5",
@@ -5315,7 +5316,7 @@
                             "rules": [
                                 {
                                     "rule_shortname": "S1.3.1",
-                                    "rule_text": "To convince the potential investors or partners that the team\u2019s presentation is worthy of their time, it is required that a Business Plan Pitch Video (BPPV) is submitted before the competition. The pitch video should be considered as the first impression of the business idea and has to contain the relevant investment figures."
+                                    "rule_text": "To convince the potential investors or partners that the team's presentation is worthy of their time, it is required that a Business Plan Pitch Video (BPPV) is submitted before the competition. The pitch video should be considered as the first impression of the business idea and has to contain the relevant investment figures."
                                 },
                                 {
                                     "rule_shortname": "S1.3.2",
@@ -5337,7 +5338,7 @@
                                 },
                                 {
                                     "rule_shortname": "S1.4.2",
-                                    "rule_text": "If the business model presented does not relate to one of the areas listed within S1.1.1, 25 penaltypoints will be deducted from the team\u2019s BPP scoring."
+                                    "rule_text": "If the business model presented does not relate to one of the areas listed within S1.1.1, 25 penaltypoints will be deducted from the team's BPP scoring."
                                 },
                                 {
                                     "rule_shortname": "S1.4.3",
@@ -5373,7 +5374,7 @@
                             "rules": [
                                 {
                                     "rule_shortname": "S2.1.1",
-                                    "rule_text": "The objective of the cost and manufacturing event is to evaluate the team\u2019s understanding of the manufacturing processes and costs associated with the construction of a prototype race car. This includes trade off decisions between content and cost, make or buy decisions and understanding the differences between prototype and mass production."
+                                    "rule_text": "The objective of the cost and manufacturing event is to evaluate the team's understanding of the manufacturing processes and costs associated with the construction of a prototype race car. This includes trade off decisions between content and cost, make or buy decisions and understanding the differences between prototype and mass production."
                                 }
                             ]
                         },
@@ -5387,19 +5388,19 @@
                                 },
                                 {
                                     "rule_shortname": "S2.2.2",
-                                    "rule_text": "During the competition, a discussion with the judges will take place, next to the team\u2019s vehicle. The discussion is split into three parts:"
+                                    "rule_text": "During the competition, a discussion with the judges will take place, next to the team's vehicle. The discussion is split into three parts:"
                                 },
                                 {
                                     "rule_shortname": "S2.2.3",
-                                    "rule_text": "Part 1 \u201cBill of Material (BOM) Discussion\u201d: A discussion to evaluate the team\u2019s ability to prepare an accurate engineering and manufac- turing BOM for the complete vehicle. The team must prove the following: \u2022 The specification of the vehicle in the CRD accurately reflects the vehicle brought to the competition. \u2022 The costs within the Costed Bill of Material (CBOM) part of the BOM are correct and realistic. \u2022 The manufacturing feasibility of the vehicle."
+                                    "rule_text": "Part 1 \"Bill of Material (BOM) Discussion\": A discussion to evaluate the team's ability to prepare an accurate engineering and manufac- turing BOM for the complete vehicle. The team must prove the following: \u2022 The specification of the vehicle in the CRD accurately reflects the vehicle brought to the competition. \u2022 The costs within the Costed Bill of Material (CBOM) part of the BOM are correct and realistic. \u2022 The manufacturing feasibility of the vehicle."
                                 },
                                 {
                                     "rule_shortname": "S2.2.4",
-                                    "rule_text": "Part 2 \u201cCost Understanding\u201d: A discussion to evaluate the general cost and manufacturing knowledge of the team."
+                                    "rule_text": "Part 2 \"Cost Understanding\": A discussion to evaluate the general cost and manufacturing knowledge of the team."
                                 },
                                 {
                                     "rule_shortname": "S2.2.5",
-                                    "rule_text": "Part 3 \u201cReal case\u201d: A specific task to evaluate the cost and manufacturing knowledge in a certain field. The real case task will be published on the competition website prior to the competition."
+                                    "rule_text": "Part 3 \"Real case\": A specific task to evaluate the cost and manufacturing knowledge in a certain field. The real case task will be published on the competition website prior to the competition."
                                 },
                                 {
                                     "rule_shortname": "S2.2.6",
@@ -5445,7 +5446,7 @@
                                 },
                                 {
                                     "rule_shortname": "S2.3.8",
-                                    "rule_text": "The presented CRD must be identical with the uploaded versions, otherwise five penalty points will be deducted from the team\u2019s cost event score."
+                                    "rule_text": "The presented CRD must be identical with the uploaded versions, otherwise five penalty points will be deducted from the team's cost event score."
                                 }
                             ]
                         },
@@ -5463,19 +5464,19 @@
                                 },
                                 {
                                     "rule_shortname": "S2.4.3",
-                                    "rule_text": "The BOM is structured as follows: \u2022 The BOM is broken down into \u201csystems\u201d (see S2.4.4), which are defined by the website tool. \u2022 Each \u201csystem\u201d is broken down into \u201cassemblies\u201d, which are defined by the website tool. \u2022 Each \u201cassembly\u201d can optional be broken down into \u201csub-assemblies\u201d, which must be defined by the team. \u2022 Each \u201cassembly\u201d or \u201csub-assembly\u201d is broken down into \u201cparts\u201d, which must be defined by the team."
+                                    "rule_text": "The BOM is structured as follows: \u2022 The BOM is broken down into \"systems\" (see S2.4.4), which are defined by the website tool. \u2022 Each \"system\" is broken down into \"assemblies\", which are defined by the website tool. \u2022 Each \"assembly\" can optional be broken down into \"sub-assemblies\", which must be defined by the team. \u2022 Each \"assembly\" or \"sub-assembly\" is broken down into \"parts\", which must be defined by the team."
                                 },
                                 {
                                     "rule_shortname": "S2.4.4",
-                                    "rule_text": "The \u201csystems\u201d are: \u2022 Brake System \u2022 Engine and Drivetrain \u2022 Chassis and Body \u2022 Electrical \u2022 Miscellaneous, Fit and Finish \u2022 Steering System \u2022 Suspension System \u2022 Wheels, Wheel Bearings and Tires \u2022 Autonomous system"
+                                    "rule_text": "The \"systems\" are: \u2022 Brake System \u2022 Engine and Drivetrain \u2022 Chassis and Body \u2022 Electrical \u2022 Miscellaneous, Fit and Finish \u2022 Steering System \u2022 Suspension System \u2022 Wheels, Wheel Bearings and Tires \u2022 Autonomous system"
                                 },
                                 {
                                     "rule_shortname": "S2.4.5",
-                                    "rule_text": "The \u201cassemblies\u201d of each \u201csystem\u201d are provided by the website tool."
+                                    "rule_text": "The \"assemblies\" of each \"system\" are provided by the website tool."
                                 },
                                 {
                                     "rule_shortname": "S2.4.6",
-                                    "rule_text": "When adding \u201cparts\u201d to the BOM, the comments section should be reviewed thoroughly. The chosen part name must clearly describe what is included. For example, if a spring is included, the \u201cpart\u201d should not be called \u201cdamper\u201d."
+                                    "rule_text": "When adding \"parts\" to the BOM, the comments section should be reviewed thoroughly. The chosen part name must clearly describe what is included. For example, if a spring is included, the \"part\" should not be called \"damper\"."
                                 },
                                 {
                                     "rule_shortname": "S2.4.7",
@@ -5505,39 +5506,39 @@
                                 },
                                 {
                                     "rule_shortname": "S2.5.2",
-                                    "rule_text": "Additional to the BOM, the DBOM must: \u2022 Include the actual associated manufacturing processes for each part as used for the prototype vehicle. \u2022 Include tooling (e.g. welding jigs, molds, patterns and dies). \u2022 Not include any cost, except for the \u201csystems\u201d described in S2.6."
+                                    "rule_text": "Additional to the BOM, the DBOM must: \u2022 Include the actual associated manufacturing processes for each part as used for the prototype vehicle. \u2022 Include tooling (e.g. welding jigs, molds, patterns and dies). \u2022 Not include any cost, except for the \"systems\" described in S2.6."
                                 },
                                 {
                                     "rule_shortname": "S2.5.3",
-                                    "rule_text": "Additional to the structure of the BOM, the DBOM is structured as follows: \u2022 Each \u201cpart\u201d is broken down into \u201cmaterials\u201d and \u201cprocesses\u201d. \u2022 Each \u201cprocess\u201d may be broken down into \u201ctooling\u201d and \u201cfasteners\u201d, if applicable."
+                                    "rule_text": "Additional to the structure of the BOM, the DBOM is structured as follows: \u2022 Each \"part\" is broken down into \"materials\" and \"processes\". \u2022 Each \"process\" may be broken down into \"tooling\" and \"fasteners\", if applicable."
                                 },
                                 {
                                     "rule_shortname": "S2.5.4",
-                                    "rule_text": "Each constituent \u201cpart\u201d of an \u201cassembly\u201d must be classified as \u201cbought\u201d or \u201cmade\u201d."
+                                    "rule_text": "Each constituent \"part\" of an \"assembly\" must be classified as \"bought\" or \"made\"."
                                 },
                                 {
                                     "rule_shortname": "S2.5.5",
-                                    "rule_text": "For each \u201cbought part\u201d, only fasteners must be included (if required). If the part was modified, the associated processes for this modification must to be included."
+                                    "rule_text": "For each \"bought part\", only fasteners must be included (if required). If the part was modified, the associated processes for this modification must to be included."
                                 },
                                 {
                                     "rule_shortname": "S2.5.6",
-                                    "rule_text": "For each \u201cmade part\u201d the raw material, all production processes, tooling and all required fasteners must be included."
+                                    "rule_text": "For each \"made part\" the raw material, all production processes, tooling and all required fasteners must be included."
                                 },
                                 {
                                     "rule_shortname": "S2.5.7",
-                                    "rule_text": "\u201cProcesses\u201d are the necessary operations to produce the \u201cpart\u201d out of the \u201cmaterial\u201d."
+                                    "rule_text": "\"Processes\" are the necessary operations to produce the \"part\" out of the \"material\"."
                                 },
                                 {
                                     "rule_shortname": "S2.5.8",
-                                    "rule_text": "\u201cMaterial\u201d is the raw material of a part, eg. aluminum."
+                                    "rule_text": "\"Material\" is the raw material of a part, eg. aluminum."
                                 },
                                 {
                                     "rule_shortname": "S2.5.9",
-                                    "rule_text": "\u201cTooling\u201d is the necessary tools used for transforming the \u201cmaterial\u201d into the desired shape."
+                                    "rule_text": "\"Tooling\" is the necessary tools used for transforming the \"material\" into the desired shape."
                                 },
                                 {
                                     "rule_shortname": "S2.5.10",
-                                    "rule_text": "\u201cFasteners\u201d are additional items necessary to assemble the \u201cpart\u201d."
+                                    "rule_text": "\"Fasteners\" are additional items necessary to assemble the \"part\"."
                                 }
                             ]
                         },
@@ -5635,7 +5636,7 @@
                                 },
                                 {
                                     "rule_shortname": "S2.10.2",
-                                    "rule_text": "If items are missing from the BOM, points are deducted until zero points are scored for \u201cBOM and BOM discussion\u201d: {{Table N7}}"
+                                    "rule_text": "If items are missing from the BOM, points are deducted until zero points are scored for \"BOM and BOM discussion\": {{Table N7}}"
                                 },
                                 {
                                     "rule_shortname": "S2.10.3",
@@ -5667,11 +5668,11 @@
                             "rules": [
                                 {
                                     "rule_shortname": "S3.1.1",
-                                    "rule_text": "The concept of the design event is to evaluate the student\u2019s engineering process and effort that went into the design of a vehicle, meeting the intent of the competition."
+                                    "rule_text": "The concept of the design event is to evaluate the student's engineering process and effort that went into the design of a vehicle, meeting the intent of the competition."
                                 },
                                 {
                                     "rule_shortname": "S3.1.2",
-                                    "rule_text": "Proprietary components and systems that are incorporated into the vehicle design as finished items are not evaluated as a student designed unit, but are only assessed on the team\u2019s selection and application of that unit."
+                                    "rule_text": "Proprietary components and systems that are incorporated into the vehicle design as finished items are not evaluated as a student designed unit, but are only assessed on the team's selection and application of that unit."
                                 },
                                 {
                                     "rule_shortname": "S3.1.3",
@@ -5685,7 +5686,7 @@
                             "rules": [
                                 {
                                     "rule_shortname": "S3.2.1",
-                                    "rule_text": "The EDR should contain a brief description of the overall vehicle including the AS with a review and derivation of the team\u2019s design objectives. Any information to scope, explain or highlight design features, concepts, methods or objectives to express the value and performance of the vehicle to the judges shall be included at the teams\u2019 discretion."
+                                    "rule_text": "The EDR should contain a brief description of the overall vehicle including the AS with a review and derivation of the team's design objectives. Any information to scope, explain or highlight design features, concepts, methods or objectives to express the value and performance of the vehicle to the judges shall be included at the teams' discretion."
                                 },
                                 {
                                     "rule_shortname": "S3.2.2",
@@ -5697,7 +5698,7 @@
                                 },
                                 {
                                     "rule_shortname": "S3.2.4",
-                                    "rule_text": "Any measures to facilitate reviewing the drawings (e.g. measurements, details, colors) may be utilized at the teams\u2019 discretion."
+                                    "rule_text": "Any measures to facilitate reviewing the drawings (e.g. measurements, details, colors) may be utilized at the teams' discretion."
                                 },
                                 {
                                     "rule_shortname": "S3.2.5",
@@ -5737,7 +5738,7 @@
                                 },
                                 {
                                     "rule_shortname": "S3.4.2",
-                                    "rule_text": "At the competition, teams will present their knowledge and their vehicle to the judges, which will evaluate the teams\u2019 performance following the design objectives stated in chapter S3.1."
+                                    "rule_text": "At the competition, teams will present their knowledge and their vehicle to the judges, which will evaluate the teams' performance following the design objectives stated in chapter S3.1."
                                 },
                                 {
                                     "rule_shortname": "S3.4.3",
@@ -5789,7 +5790,7 @@
                             "rules": [
                                 {
                                     "rule_shortname": "S3.6.1",
-                                    "rule_text": "The judges will evaluate the engineering effort based upon the teams\u2019 DSS and EDR, responses to questions and an inspection of the vehicle."
+                                    "rule_text": "The judges will evaluate the engineering effort based upon the teams' DSS and EDR, responses to questions and an inspection of the vehicle."
                                 },
                                 {
                                     "rule_shortname": "S3.6.2",
@@ -5863,7 +5864,7 @@
                                 },
                                 {
                                     "rule_shortname": "D1.2.4",
-                                    "rule_text": "Drivers must not wear the dynamic vest when sitting in the vehicle. The driver\u2019s vest must not be attached to the vehicle."
+                                    "rule_text": "Drivers must not wear the dynamic vest when sitting in the vehicle. The driver's vest must not be attached to the vehicle."
                                 },
                                 {
                                     "rule_shortname": "D1.2.5",
@@ -5895,35 +5896,35 @@
                                 },
                                 {
                                     "rule_shortname": "D2.1.3",
-                                    "rule_text": "BLACK FLAG \u2013 The driver must pull into the driver change area for discussion with the officials concerning an incident. A time penalty may be assessed."
+                                    "rule_text": "BLACK FLAG - The driver must pull into the driver change area for discussion with the officials concerning an incident. A time penalty may be assessed."
                                 },
                                 {
                                     "rule_shortname": "D2.1.4",
-                                    "rule_text": "BLACK FLAG WITH ORANGE DOT \u2013 Mechanical black flag. The driver must pull into the driver change area for a mechanical inspection of the vehicle, something has been observed that requires a closer inspection."
+                                    "rule_text": "BLACK FLAG WITH ORANGE DOT - Mechanical black flag. The driver must pull into the driver change area for a mechanical inspection of the vehicle, something has been observed that requires a closer inspection."
                                 },
                                 {
                                     "rule_shortname": "D2.1.5",
-                                    "rule_text": "BLUE FLAG \u2013 The driver must pull into the designated passing zone to be passed by a faster competitor. The driver must obey the track marshals\u2019 signals at the end of the passing zone."
+                                    "rule_text": "BLUE FLAG - The driver must pull into the designated passing zone to be passed by a faster competitor. The driver must obey the track marshals' signals at the end of the passing zone."
                                 },
                                 {
                                     "rule_shortname": "D2.1.6",
-                                    "rule_text": "CHECKERED FLAG \u2013 The session has been completed. The driver must exit the track at the first opportunity."
+                                    "rule_text": "CHECKERED FLAG - The session has been completed. The driver must exit the track at the first opportunity."
                                 },
                                 {
                                     "rule_shortname": "D2.1.7",
-                                    "rule_text": "GREEN FLAG \u2013 \u2022 The session has started, the driver may enter the track under direction of the track marshals. In case of stalling, the vehicle can be restarted, but the driver has to await another green flag as the opening in traffic may have closed. \u2022 The driver is clear to re-enter the track after using the slow lane to let a faster vehicle pass. \u2022 The driver may pick up speed again after a yellow flag was displayed."
+                                    "rule_text": "GREEN FLAG - \u2022 The session has started, the driver may enter the track under direction of the track marshals. In case of stalling, the vehicle can be restarted, but the driver has to await another green flag as the opening in traffic may have closed. \u2022 The driver is clear to re-enter the track after using the slow lane to let a faster vehicle pass. \u2022 The driver may pick up speed again after a yellow flag was displayed."
                                 },
                                 {
                                     "rule_shortname": "D2.1.8",
-                                    "rule_text": "RED FLAG \u2013 The driver must come to an immediate safe and controlled stop on the track and must follow track marshals\u2019 directions."
+                                    "rule_text": "RED FLAG - The driver must come to an immediate safe and controlled stop on the track and must follow track marshals' directions."
                                 },
                                 {
                                     "rule_shortname": "D2.1.9",
-                                    "rule_text": "YELLOW FLAG \u2013 Danger, the driver must slow down, something has happened beyond the flag station, no overtaking unless directed by the track marshals."
+                                    "rule_text": "YELLOW FLAG - Danger, the driver must slow down, something has happened beyond the flag station, no overtaking unless directed by the track marshals."
                                 },
                                 {
                                     "rule_shortname": "D2.1.10",
-                                    "rule_text": "RED AND YELLOW STRIPED FLAG \u2013 The track is slippery or something is on the racing surface that should not be there. The driver must be prepared for evasive maneuvers to avoid the situation."
+                                    "rule_text": "RED AND YELLOW STRIPED FLAG - The track is slippery or something is on the racing surface that should not be there. The driver must be prepared for evasive maneuvers to avoid the situation."
                                 }
                             ]
                         },
@@ -6017,7 +6018,7 @@
                                 },
                                 {
                                     "rule_shortname": "D2.6.2",
-                                    "rule_text": "If the vehicle does not enter \u201cAS Ready\u201d state within 1 min after being staged, the team may be sent back to the preparation area by the officials. In this case any priority is lost."
+                                    "rule_text": "If the vehicle does not enter \"AS Ready\" state within 1 min after being staged, the team may be sent back to the preparation area by the officials. In this case any priority is lost."
                                 },
                                 {
                                     "rule_shortname": "D2.6.3",
@@ -6047,7 +6048,7 @@
                                 },
                                 {
                                     "rule_shortname": "D2.7.2",
-                                    "rule_text": "If a vehicle comes to standstill for any reason, it may have up to 30 s to attempt to continue to drive. If the vehicle doesn\u2019t restart within 30 s, it will be deactivated using the RES, deemed disabled and scored as DNF for the run."
+                                    "rule_text": "If a vehicle comes to standstill for any reason, it may have up to 30 s to attempt to continue to drive. If the vehicle doesn't restart within 30 s, it will be deactivated using the RES, deemed disabled and scored as DNF for the run."
                                 },
                                 {
                                     "rule_shortname": "D2.7.3",
@@ -6237,7 +6238,7 @@
                                 },
                                 {
                                     "rule_shortname": "D4.4.3",
-                                    "rule_text": "If a team\u2019s best manual mode time including penalties is below Tmax, additional points based on the following formula are given: $$M\\_SKIDPAD\\_SCORE = 46.5 ({{(T_{max} / T_{team})}^2 -1} / 0.5625 )$$ $T_{team}$ is the team\u2019s best manual mode time including penalties.<br> $T_{max}$ is 1.25 times the time of the fastest manual mode vehicle including penalties."
+                                    "rule_text": "If a team's best manual mode time including penalties is below Tmax, additional points based on the following formula are given: $$M\\_SKIDPAD\\_SCORE = 46.5 ({{(T_{max} / T_{team})}^2 -1} / 0.5625 )$$ $T_{team}$ is the team's best manual mode time including penalties.<br> $T_{max}$ is 1.25 times the time of the fastest manual mode vehicle including penalties."
                                 }
                             ]
                         },
@@ -6255,7 +6256,7 @@
                                 },
                                 {
                                     "rule_shortname": "D4.5.3",
-                                    "rule_text": "If a team that finishes at least one driverless run without a DNF or DQ, points based on the following formula are given: $$DV\\_SKIDPAD\\_SCORE = 75 {N_{all} + 1 - R_{DV,team}} / N_{all}$$ with $R_{DV,team}$ is the ranking of team\u2019s best driverless time including penalties within the best driverless times including penalties of all other teams <br>$N_{all}$ is the number of teams who finished at least one manual or driverless run without DNF or DQ"
+                                    "rule_text": "If a team that finishes at least one driverless run without a DNF or DQ, points based on the following formula are given: $$DV\\_SKIDPAD\\_SCORE = 75 {N_{all} + 1 - R_{DV,team}} / N_{all}$$ with $R_{DV,team}$ is the ranking of team's best driverless time including penalties within the best driverless times including penalties of all other teams <br>$N_{all}$ is the number of teams who finished at least one manual or driverless run without DNF or DQ"
                                 }
                             ]
                         },
@@ -6277,7 +6278,7 @@
                                 },
                                 {
                                     "rule_shortname": "D4.6.4",
-                                    "rule_text": "If a team\u2019s run time including penalties is below Tmax, additional points based on the following formula are given: $$DC\\_SKIDPAD\\_SCORE = 71.5 ({{( T_{max}/T_{team})}^2 -1} / 1.25)$$ $T_{team}$ is the team\u2019s best driverless run time including penalties.<br>$T_{max}$ is 1.5 times the time of the fastest driverless run of all teams including penalties."
+                                    "rule_text": "If a team's run time including penalties is below Tmax, additional points based on the following formula are given: $$DC\\_SKIDPAD\\_SCORE = 71.5 ({{( T_{max}/T_{team})}^2 -1} / 1.25)$$ $T_{team}$ is the team's best driverless run time including penalties.<br>$T_{max}$ is 1.5 times the time of the fastest driverless run of all teams including penalties."
                                 }
                             ]
                         }
@@ -6359,7 +6360,7 @@
                                 },
                                 {
                                     "rule_shortname": "D5.4.2",
-                                    "rule_text": "If a team\u2019s best manual mode time including penalties is below $T_{max}$, additional points based on the following formula are given: $$M\\_ACCELERATION\\_SCORE = 46.5 ({ {T_{max} / T_{team} } -1} / 0.5)$$ $T_{team}$ is the team\u2019s best manual mode time including penalties.<br>$T_{max}$ is 1.5 times the time of the fastest manual mode vehicle including penalties."
+                                    "rule_text": "If a team's best manual mode time including penalties is below $T_{max}$, additional points based on the following formula are given: $$M\\_ACCELERATION\\_SCORE = 46.5 ({ {T_{max} / T_{team} } -1} / 0.5)$$ $T_{team}$ is the team's best manual mode time including penalties.<br>$T_{max}$ is 1.5 times the time of the fastest manual mode vehicle including penalties."
                                 }
                             ]
                         },
@@ -6373,7 +6374,7 @@
                                 },
                                 {
                                     "rule_shortname": "D5.5.2",
-                                    "rule_text": "If a team that finishes at least one driverless run without a DNF or DQ, points based on the following formula are given: $$DV\\_ACCELERATION_SCORE = 75 {N_{all} +1 - R_{DV,team}} / {N_{all}}$$ with $R_{DV,team}$ is the ranking of team\u2019s best driverless time including penalties within the best driverless times including penalties of all other teams<br>$N_{all}$ is the number of teams who finished at least one manual or driverless run without DNF or DQ"
+                                    "rule_text": "If a team that finishes at least one driverless run without a DNF or DQ, points based on the following formula are given: $$DV\\_ACCELERATION_SCORE = 75 {N_{all} +1 - R_{DV,team}} / {N_{all}}$$ with $R_{DV,team}$ is the ranking of team's best driverless time including penalties within the best driverless times including penalties of all other teams<br>$N_{all}$ is the number of teams who finished at least one manual or driverless run without DNF or DQ"
                                 }
                             ]
                         },
@@ -6391,7 +6392,7 @@
                                 },
                                 {
                                     "rule_shortname": "D5.6.3",
-                                    "rule_text": "If a team\u2019s best time including penalties is below $T_{max}$, additional points based on the following formula are given: $$DC_ACCELERATION\\_SCORE = 71.5 ( {T_{max} / T_{team}} -1 )$$ $T_{team}$ is the team\u2019s best DV time including penalties.<br>$T_{max}$ is 2 times the time of the fastest DV vehicle including penalties."
+                                    "rule_text": "If a team's best time including penalties is below $T_{max}$, additional points based on the following formula are given: $$DC_ACCELERATION\\_SCORE = 71.5 ( {T_{max} / T_{team}} -1 )$$ $T_{team}$ is the team's best DV time including penalties.<br>$T_{max}$ is 2 times the time of the fastest DV vehicle including penalties."
                                 }
                             ]
                         }
@@ -6455,7 +6456,7 @@
                                 },
                                 {
                                     "rule_shortname": "D6.3.2",
-                                    "rule_text": "If a team\u2019s corrected elapsed time is below Tmax, points based on the following formula are given: $$AUTOCROSS\\_SCORE = 95.5 ({ {T_{max}/T_{team} } -1} / 0.25)$$ $T_{team}$ is the team\u2019s best time including penalties.<br>$T_{max}$ is 1.25 times the time of the fastest vehicle including penalties."
+                                    "rule_text": "If a team's corrected elapsed time is below Tmax, points based on the following formula are given: $$AUTOCROSS\\_SCORE = 95.5 ({ {T_{max}/T_{team} } -1} / 0.25)$$ $T_{team}$ is the team's best time including penalties.<br>$T_{max}$ is 1.25 times the time of the fastest vehicle including penalties."
                                 }
                             ]
                         },
@@ -6499,7 +6500,7 @@
                                 },
                                 {
                                     "rule_shortname": "D6.5.2",
-                                    "rule_text": "If a team\u2019s Tteam,total is below Tmax, points based on the following formula are given: $$AUTOCROSS\\_SCORE = 90 ({T_{max} - T_{team,total}} / {T_{max} - T_{min}})$$ $$T_{team,total} = min(T_{team,1},avg(T_{team,1},T_{team,2}))$$ $T_{team,1}$ is the team\u2019s time including penalties of run 1.<br>$T_{team,2}$ is the team\u2019s time including penalties of run 2.<br>$T_{max}$ is the time for driving the lap with $6 m/s$.<br>$T_{min}$ is the fastest $T_{team,total}$ of all teams.<br>For runs that are DNF or DQ and for runs with a $T_{team,i}$ above $T_{max}, T_{team,i}$ is set to Tmax."
+                                    "rule_text": "If a team's Tteam,total is below Tmax, points based on the following formula are given: $$AUTOCROSS\\_SCORE = 90 ({T_{max} - T_{team,total}} / {T_{max} - T_{min}})$$ $$T_{team,total} = min(T_{team,1},avg(T_{team,1},T_{team,2}))$$ $T_{team,1}$ is the team's time including penalties of run 1.<br>$T_{team,2}$ is the team's time including penalties of run 2.<br>$T_{max}$ is the time for driving the lap with $6 m/s$.<br>$T_{min}$ is the fastest $T_{team,total}$ of all teams.<br>For runs that are DNF or DQ and for runs with a $T_{team,i}$ above $T_{max}, T_{team,i}$ is set to Tmax."
                                 }
                             ]
                         }
@@ -6533,7 +6534,7 @@
                             "rules": [
                                 {
                                     "rule_shortname": "D7.2.1",
-                                    "rule_text": "Before entering the event, each CV\u2019s fuel tank must be filled to the fuel level line (see CV2.6.3, \u201cFuel Level Line\u201d) at the fueling station. During fueling, once filled to the scribe line, no shaking or tilting of the tank, the fuel system or the entire vehicle is allowed."
+                                    "rule_text": "Before entering the event, each CV's fuel tank must be filled to the fuel level line (see CV2.6.3, \"Fuel Level Line\") at the fueling station. During fueling, once filled to the scribe line, no shaking or tilting of the tank, the fuel system or the entire vehicle is allowed."
                                 },
                                 {
                                     "rule_shortname": "D7.2.2",
@@ -6673,7 +6674,7 @@
                                 },
                                 {
                                     "rule_shortname": "D7.6.5",
-                                    "rule_text": "The allowed tire changes and associated conditions are given in the following tables. {{Table N9}} {{Table N10}} Note 1: Any time in excess of ten minutes without driver change, or thirteen minutes with driver change, is added to the team\u2019s total time for endurance.<br>Note 2: The time used to change to dry tires is added to the team\u2019s total time for endurance."
+                                    "rule_text": "The allowed tire changes and associated conditions are given in the following tables. {{Table N9}} {{Table N10}} Note 1: Any time in excess of ten minutes without driver change, or thirteen minutes with driver change, is added to the team's total time for endurance.<br>Note 2: The time used to change to dry tires is added to the team's total time for endurance."
                                 },
                                 {
                                     "rule_shortname": "D7.6.6",
@@ -6741,7 +6742,7 @@
                                 },
                                 {
                                     "rule_shortname": "D7.8.4",
-                                    "rule_text": "If a team\u2019s corrected elapsed time is below Tmax, additional points based on the following formula are given: $$ENDURANCE_SCORE = 225 ({T_{max}/T_{team} -1} / 0.3330)$$ $T_{team}$ is the team\u2019s corrected elapsed time.<br>$T+{max}$ is 1.333 times of the corrected elapsed time of the fastest vehicle."
+                                    "rule_text": "If a team's corrected elapsed time is below Tmax, additional points based on the following formula are given: $$ENDURANCE_SCORE = 225 ({T_{max}/T_{team} -1} / 0.3330)$$ $T_{team}$ is the team's corrected elapsed time.<br>$T+{max}$ is 1.333 times of the corrected elapsed time of the fastest vehicle."
                                 }
                             ]
                         },
@@ -6771,7 +6772,7 @@
                                 },
                                 {
                                     "rule_shortname": "D7.9.6",
-                                    "rule_text": "Efficiency points based on the following formula are given: $$EFFICIENCY\\_SCORE = 75 ({EF_{max} - {EF}_{team}} / {EF_{max} - EF_{min}})$$ with $EF_{team}$ the team\u2019s efficiency factor<br>$EF_{min}$ the lowest efficiency factor of all teams which were considered for efficiency<br>$EF_{max}$ is defined as $1.5 ⋅ EF_{min}$"
+                                    "rule_text": "Efficiency points based on the following formula are given: $$EFFICIENCY\\_SCORE = 75 ({EF_{max} - {EF}_{team}} / {EF_{max} - EF_{min}})$$ with $EF_{team}$ the team's efficiency factor<br>$EF_{min}$ the lowest efficiency factor of all teams which were considered for efficiency<br>$EF_{max}$ is defined as $1.5 ⋅ EF_{min}$"
                                 },
                                 {
                                     "rule_shortname": "D7.9.7",
@@ -6853,7 +6854,7 @@
                                 },
                                 {
                                     "rule_shortname": "D8.4.2",
-                                    "rule_text": "If a team\u2019s corrected elapsed time is below Tmax and the run was not DNF or DQ, points based on the following formula are given: $$TRACKDRIVE\\_ SCORE = 150 (T_\\max/T_\\team - 1)$$ $T_\\team$ is the team\u2019s corrected elapsed time.<br>$T_\\max$ is 2 times of the corrected elapsed time of the fastest vehicle."
+                                    "rule_text": "If a team's corrected elapsed time is below Tmax and the run was not DNF or DQ, points based on the following formula are given: $$TRACKDRIVE\\_ SCORE = 150 (T_\\max/T_\\team - 1)$$ $T_\\team$ is the team's corrected elapsed time.<br>$T_\\max$ is 2 times of the corrected elapsed time of the fastest vehicle."
                                 },
                                 {
                                     "rule_shortname": "D8.4.3",
@@ -6921,7 +6922,7 @@
                                 },
                                 {
                                     "rule_shortname": "D9.1.13",
-                                    "rule_text": "Reckless or aggressive driving or \u201cOver Driving\u201d: black flag (see D2.1.3)"
+                                    "rule_text": "Reckless or aggressive driving or \"Over Driving\": black flag (see D2.1.3)"
                                 },
                                 {
                                     "rule_shortname": "D9.1.14",
@@ -6947,11 +6948,11 @@
                                 },
                                 {
                                     "rule_shortname": "D9.2.2",
-                                    "rule_text": "Mechanical Problem: The time taken for mechanical inspection under a \u201cmechanical black flag\u201d (see D2.1.4) is considered officials\u2019 time and is not included in the team\u2019s total time. If the inspection reveals a mechanical integrity problem the vehicle is scored DNF."
+                                    "rule_text": "Mechanical Problem: The time taken for mechanical inspection under a \"mechanical black flag\" (see D2.1.4) is considered officials' time and is not included in the team's total time. If the inspection reveals a mechanical integrity problem the vehicle is scored DNF."
                                 },
                                 {
                                     "rule_shortname": "D9.2.3",
-                                    "rule_text": "If it is impossible to impose a penalty by a stop under a black flag, e.g. not enough laps left, the officials may add an appropriate time penalty to the team\u2019s elapsed time."
+                                    "rule_text": "If it is impossible to impose a penalty by a stop under a black flag, e.g. not enough laps left, the officials may add an appropriate time penalty to the team's elapsed time."
                                 },
                                 {
                                     "rule_shortname": "D9.2.4",
